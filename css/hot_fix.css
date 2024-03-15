@@ -484,3 +484,6 @@ footer#footer .page-wrapper.footer-wrapper .left-side-info {
   margin-left: 20%;
   color: #ababab;
 }
+#zing-header .logo a {
+  background-image: url(../images/logo.svg) !important;
+}
