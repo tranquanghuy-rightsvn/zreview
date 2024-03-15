@@ -1,115 +1,3 @@
-<!DOCTYPE html>
-<html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="REFRESH" content="1800" />
-
-  <title>Giá Bitcoin tiến sát 69.000 USD, sắp vượt đỉnh lịch sử - Kinh tế số - ZNEWS.VN </title>
-  <meta name="description" content="Giá Bitcoin cách kỷ lục giá chỉ chưa đầy 1% sau khi tiếp tục tăng mạnh và vượt qua mốc 68.600 USD/BTC." />
-  <meta name="keywords" content="giá bitcoin, bitcoin vượt đỉnh" />
-
-  <!-- ROBOTS -->
-  <meta name="googlebot" content="noarchive" />
-  <meta name="robots" content="noarchive,index,follow" />
-
-  <!-- FACEBOOK OPEN GRAPH -->
-  <meta property="fb:app_id" content="571421367282732" />
-  <meta property="og:site_name" content="Znews.vn" />
-  <meta property="og:rich_attachment" content="true" />
-  <meta property="article:publisher" content="https://www.facebook.com/zingnewssocial" />
-  <meta property="og:type" content="article" />
-  <meta property="og:image" content="https://photo.znews.vn/w1250/Uploaded/rohuoct/2024_01_02/Anh_chup_man_hinh_2024_01_02_100509.jpg" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
-
-  <meta property="article:published_time" content="2024-03-05T10:12:28+0700" />
-
-
-  <meta property="article:modified_time" content="2024-03-05T10:16:37+0700" />
-
-  <meta property="og:url" content="https://znews.vn/znews-post1463248.html" />
-  <meta property="og:title" content="Giá Bitcoin tiến sát 69.000 USD, sắp vượt đỉnh lịch sử" />
-  <meta property="og:description" content="Giá Bitcoin cách kỷ lục giá chỉ chưa đầy 1% sau khi tiếp tục tăng mạnh và vượt qua mốc 68.600 USD/BTC." />
-
-  <meta property="article:tag" content="bitcoin"/>
-
-  <meta property="article:tag" content="tiền mã hóa"/>
-
-  <meta property="article:tag" content="tiền số"/>
-
-  <link rel="canonical" href="https://znews.vn/gia-bitcoin-tien-sat-69000-usd-sap-vuot-dinh-lich-su-post1463248.html"/>
-
-  <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1" name="viewport"/>
-  <meta name="format-detection" content="telephone=no" />
-  <meta name="format-detection" content="address=no" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="referrer" content="no-referrer-when-downgrade" />
-
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "NewsArticle",
-      "mainEntityOfPage":{
-      "@type":"WebPage",
-      "@id":"https://znews.vn/gia-bitcoin-tien-sat-69000-usd-sap-vuot-dinh-lich-su-post1463248.html"
-    },
-    "headline": "Giá Bitcoin tiến sát 69.000 USD, sắp vượt đỉnh lịch sử",
-    "description": "Giá Bitcoin cách kỷ lục giá chỉ chưa đầy 1% sau khi tiếp tục tăng mạnh và vượt qua mốc 68.600 USD\/BTC.",
-    "image": {
-    "@type": "ImageObject",
-    "url": "https://photo.znews.vn/w1250/Uploaded/rohuoct/2024_01_02/Anh_chup_man_hinh_2024_01_02_100509.jpg",
-    "width" : 720,
-    "height" : 480
-  },
-  "datePublished": "2024-03-05T10:12:28+0700",
-  "dateModified": "2024-03-05T10:16:37+0700",
-  "author": {
-  "@type": "Person",
-  "name": "Minh Khánh"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Znews",
-"logo": {
-"@type": "ImageObject",
-"url": "https://static.znews.vn/wap/css/img/logo_zing_black@2x.png",
-"width": 300
-}
-}
-}
-</script>
-
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-      "@id": "https://znews.vn",
-      "name": "Trang chủ"
-    }
-  }
-
-  ,
-  {
-    "@type": "ListItem",
-    "position": 2,
-    "item": {
-    "@id": "https://znews.vn/kinh-doanh-tai-chinh.html",
-    "name": "Kinh doanh"
-  }
-}
-
-]
-}
-</script>
-
-
 <script type="text/javascript">
   var zaConfig = {
     pageid: '572',
@@ -228,79 +116,73 @@
       <nav class="category-menu">
         <ul>
 
-          <li class="parent xuat-ban ">
-            <a href="https://znews.vn/xuat-ban.html" title="Công nghệ">Công nghệ</a>
+          <li class="parent cong-nghe">
+            <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent tac-gia ">
-            <a href="https://znews.vn/tac-gia.html" title="ẩm thực">Ẩm thực</a>
+          <li class="parent am-thuc">
+            <a href="./am-thuc.html" title="ẩm thực">Ẩm thực</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent kinh-doanh-tai-chinh ">
-            <a href="https://znews.vn/kinh-doanh-tai-chinh.html" title="Nhân vật">Nhân vật</a>
+          <li class="parent nhan-vat">
+            <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent cong-nghe ">
-            <a href="https://znews.vn/cong-nghe.html" title="Phim">Phim</a>
+          <li class="parent phim">
+            <a href="./phim.html" title="Phim">Phim</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent doi-song ">
-            <a href="https://lifestyle.zingnews.vn/doi-song.html" title="Sách">Sách</a>
+          <li class="parent sach">
+            <a href="./sach.html" title="Sách">Sách</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent giai-tri ">
-            <a href="https://lifestyle.zingnews.vn/giai-tri.html" title="Giải trí">Đồ gia dụng</a>
+          <li class="parent do-gia-dung">
+            <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent the-thao ">
-            <a href="https://znews.vn/the-thao.html" title="Thể thao">Nhà hàng</a>
+          <li class="parent nha-hang">
+            <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="parent thong-tin-cai-chinh ">
-            <a href="https://znews.vn/thong-tin-cai-chinh.html" title="Cải chính">Khách sạn</a>
+          <li class="parent khach-san">
+            <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
             <div class="subcate">
               <ul>
-
               </ul>
             </div>
           </li>
 
-          <li class="more"><span class="dot dot1"></span><span class="dot dot2"></span><span class="dot dot3"></span></li>
+          <li class="more">
+<span class="dot dot1"></span><span class="dot dot2"></span><span class="dot dot3"></span>
+</li>
         </ul>
       </nav>
 
@@ -324,7 +206,15 @@
           <ul class="normal-category">
 
             <li class="parent xuat-ban ">
-              <a href="https://znews.vn/xuat-ban.html" title="Công nghệ">Công nghệ</a>
+              <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+              <div class="subcate">
+                <ul>
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent am-thuc">
+              <a href="./am-thuc.html" title="Ẩm thực">Ẩm thực</a>
               <div class="subcate">
                 <ul>
 
@@ -332,8 +222,16 @@
               </div>
             </li>
 
-            <li class="parent kinh-doanh-tai-chinh ">
-              <a href="https://znews.vn/kinh-doanh-tai-chinh.html" title="Ẩm thực">Ẩm thực</a>
+            <li class="parent nhan-vat">
+              <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
+              <div class="subcate">
+                <ul>
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent phim">
+              <a href="./phim.html" title="Phim">Phim</a>
               <div class="subcate">
                 <ul>
 
@@ -341,26 +239,8 @@
               </div>
             </li>
 
-            <li class="parent cong-nghe ">
-              <a href="https://znews.vn/cong-nghe.html" title="Nhân vật">Nhân vật</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent doi-song ">
-              <a href="https://lifestyle.zingnews.vn/doi-song.html" title="Phim">Phim</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent tac-gia ">
-              <a href="https://znews.vn/tac-gia.html" title="Sách">Sách</a>
+            <li class="parent sach">
+              <a href="./sach.html" title="Sách">Sách</a>
               <div class="subcate">
                 <ul>
 
@@ -369,7 +249,7 @@
             </li>
 
             <li class="parent giai-tri ">
-              <a href="https://lifestyle.zingnews.vn/giai-tri.html" title="Đồ gia dụng">Đồ gia dụng</a>
+              <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
               <div class="subcate">
                 <ul>
 
@@ -377,8 +257,8 @@
               </div>
             </li>
 
-            <li class="parent the-thao ">
-              <a href="https://znews.vn/the-thao.html" title="Nhà hàng">Nhà hàng</a>
+            <li class="parent nha-hang">
+              <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
               <div class="subcate">
                 <ul>
 
@@ -386,8 +266,8 @@
               </div>
             </li>
 
-            <li class="parent lifestyle ">
-              <a href="https://lifestyle.zingnews.vn/lifestyle.html" title="Khách sạn">Khách sạn</a>
+            <li class="parent khach-san">
+              <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
               <div class="subcate">
                 <ul>
 
@@ -395,8 +275,8 @@
               </div>
             </li>
 
-            <li class="parent sach-hay ">
-              <a href="https://znews.vn/sach-hay.html" title="Du lịch">Du lịch</a>
+            <li class="parent du-lich">
+              <a href="./du-lich.html" title="Du lịch">Du lịch</a>
               <div class="subcate">
                 <ul>
 
@@ -404,8 +284,8 @@
               </div>
             </li>
 
-            <li class="parent van-hoa-doc ">
-              <a href="/van-hoa-doc.html" title="Thực phẩm chức năng">Thực phẩm chức năng</a>
+            <li class="parent thuc-pham-chuc-nang">
+              <a href="./thuc-pham-chuc-nang.html" title="Thực phẩm chức năng">Thực phẩm chức năng</a>
               <div class="subcate">
                 <ul>
 
@@ -413,8 +293,8 @@
               </div>
             </li>
 
-            <li class="parent suc-khoe ">
-              <a href="https://lifestyle.zingnews.vn/suc-khoe.html" title="Khác">Khác</a>
+            <li class="parent khac">
+              <a href="./khac.html" title="Khác">Khác</a>
               <div class="subcate">
                 <ul>
 
@@ -436,18 +316,17 @@
 
       <header class="the-article-header">
 
-        <p class="the-article-category">
+        <p class="the-article-category" id="zreview-parent-category">
           <a href="https://znews.vn/kinh-te-so.html" title="Kinh tế số" class="parent_cate" id="zreview-parent-cate">Kinh tế số</a>
         </p>
 
-        <h1 class="the-article-title" id="zreview-title">Giá Bitcoin tiến sát 69.000 USD, sắp vượt đỉnh lịch sử</h1>
+        <h1 class="the-article-title" id="title-review">Giá Bitcoin tiến sát 69.000 USD, sắp vượt đỉnh lịch sử</h1>
         <ul class="the-article-meta">
-          <li class="the-article-publish" id="zreview-time">Thứ ba, 5/3/2024 10:12 (GMT+7)</li>
+          <li class="the-article-publish" id="time-review">Thứ ba, 5/3/2024 10:12 (GMT+7)</li>
         </ul>
       </header>
       <section class="main">
-        <div class="the-article-body">
-          Nội dung bài viết
+        <div class="the-article-body" id="content-review">
         </div>
       </section>
 
@@ -463,7 +342,7 @@
         </header>
 
         <section class="section-content">
-          <div class="article-list listing-layout responsive infinite-load">
+          <div class="article-list listing-layout responsive infinite-load" id="news-reference">
             <article class="article-item  type-text picked-featured short" article-id="1463231" topic-id="934,2000,3849,3949,4015,5129,5136,7113" serie-id="" data-tracker="zingweb_article_newslatest1">
               <p class="article-thumbnail">
                 <a href="https://znews.vn/cau-thu-mu-bat-man-voi-hlv-ten-hag-post1463231.html">
