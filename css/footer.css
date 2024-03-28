@@ -113,3 +113,6 @@
       text-align: center;
     }
   }
+#zing-header .logo a {
+  background-image: url(../images/logo.png) !important;
+}
