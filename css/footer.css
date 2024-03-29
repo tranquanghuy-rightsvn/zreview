@@ -115,4 +115,5 @@
   }
 #zing-header .logo a {
   background-image: url(../images/logo.png) !important;
+  z-index: 9999;
 }
