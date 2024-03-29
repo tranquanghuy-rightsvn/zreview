@@ -1,4 +1,9 @@
 
+#zing-header .category-popup{
+  visibility: visible;
+  display: none;
+  opacity: 0;
+}
 @media (max-width: 767px) {
   #zing-header.active {
     top: 0;
