@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zreview - Review cả thế giới</title>
+  <id>https://zreview.vn/</id>
+  <updated>2024-04-01T06:12:10-07:00</updated>
+  <link href="https://zreview.vn/"/>
+  <link rel="self" href="https://zreview.vn/atom.xml"/>
+  <author>
+    <name>Zreview</name>
+  </author>
+  <icon>https://static.globalissues.org/i/globalissues.png</icon>
+  <logo>https://static.globalissues.org/i/globalissues/logo-feed.jpg</logo>
+  <entry>
+    <id>https://www.globalissues.org/news/2024/03/31/36361</id>
+    <title>From Desperation to Determination: Indonesian Trafficking Survivors Demand Justice</title>
+    <updated>2024-03-31T05:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.globalissues.org/news/2024/03/31/36361"/>
+    <link rel="enclosure" type="image/jpg" href="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-03-2024-IOM-Indonesia-05.jpg/image1170x530cropped.jpg"/>
+    <summary type="html"><p>Description</p></summary>
+    <media:thumbnail url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-03-2024-IOM-Indonesia-05.jpg/image100x100cropped.jpg" width="100" height="100"/>
+  </entry>
+</feed>
