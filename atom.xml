@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-02T21:22:20+07:00</updated>
+                  <updated>2024-04-03T22:34:10+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/zeros-là-ai-review-game-thủ-lắm-tài-nhiều-tật.html</id><title>Zeros là ai? Review game thủ lắm tài nhiều tật</title>
+          <updated>2024-04-03T22:34:10+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/zeros-là-ai-review-game-thủ-lắm-tài-nhiều-tật.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/54/Zeros-ma-vuong.jpg"/>
+          <summary type="html"><p>Từ lâu cộng đồng người chơi Liên minh huyền thoại đã không lạ lẫm gì với cái tên Zeros. Được gọi với những cái tên rất kêu như Ma vương không đầu, kẻ solokill The Shy, Global ban, anh không chỉ nổi tiếng với phong cách </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-laptop-gaming-rog-strix-g16-2023---mát-và-êm.html</id><title>Review laptop gaming ROG Strix G16 2023 - Mát và êm</title>
           <updated>2024-04-02T21:22:20+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-laptop-gaming-rog-strix-g16-2023---mát-và-êm.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-ngô-diệc-phàm---từ-người-nổi-tiếng-số-1-showbiz-đến-con-đường-tù-tội.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/35/ngo-diec-pham-992(2).jpg"/>
           <summary type="html"><p>Ngô Diệc Phàm có bố mẹ là người Trung Quốc nhưng 10 tuổi anh đã cùng mẹ định cư tại Canada. Từ bé anh đã thể hiện mình là người có tài năng bóng rổ và ước mơ được chơi ở giải Nhà nghề của Mỹ</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/kim-u-vương---thần-dược-chữa-ung-thư-hay-lừa-đảo.html</id><title>Kim U Vương - thần dược chữa ung thư hay lừa đảo?</title>
-          <updated>2024-03-25T15:44:36+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/kim-u-vương---thần-dược-chữa-ung-thư-hay-lừa-đảo.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/34/kim-u-vuong.png"/>
-          <summary type="html"><p>Được quảng cáo tràn lan trên mạng là thần dược chữa trị ung thư, nhiều bệnh nhân không may mắn khi mắc phải căn bệnh quái ác này chỉ còn biết bấu víu vào niềm tin duy nhất, đó là loại thần dược có thể giúp điều trị ung thư có tên Kim U Vương</p></summary>
         </entry></feed>
