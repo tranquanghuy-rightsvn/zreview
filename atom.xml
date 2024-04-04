@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-03T22:50:49+07:00</updated>
+                  <updated>2024-04-04T22:04:00+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/ẩm-thực-đường-phố-sài-gòn---bò-kho-bột-chiên-nem-nướng.html</id><title>Ẩm thực đường phố Sài Gòn - Bò kho, bột chiên, nem nướng</title>
+          <updated>2024-04-04T22:04:00+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/ẩm-thực-đường-phố-sài-gòn---bò-kho-bột-chiên-nem-nướng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/56/am-thuc-duong-pho-sai-gon.jpg"/>
+          <summary type="html"><p>Tôi là một con đường của một phố ẩm thực đường phố ở Sài Gòn. Qua nhiều năm tháng, tôi đã chứng kiến, gắn bó với ẩm thực hè phố Việt Nam đến mức tôi tự hào rằng bản thân có thể nói cho các bạn biết tại sao ẩm thực đường phố</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-sách---nhựa-cây---truyện-trinh-thám-của-ane-riel.html</id><title>Review sách - Nhựa cây - Truyện trinh thám của Ane Riel</title>
           <updated>2024-04-03T22:50:49+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-sách---nhựa-cây---truyện-trinh-thám-của-ane-riel.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-sách---tuần-trăng-mật-màu-xanh---nguyễn-thị-hoàng.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/37/Tuan-trang-mat-mau-xanh-1-1-min-scaled.jpg"/>
           <summary type="html"><p>Chiến tranh! Đôi khi nó khiến chúng ta sống trong nguy hiểm, khiến chúng ta thấy ngột ngạt. Tâm trạng của những người lính dù là ở chiến tuyến nào cũng đều thế.</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-mv-chẳng-sao-cả----cao-thái-sơn---một-câu-chuyện-tình-buồn.html</id><title>Review MV chẳng sao cả  - Cao Thái Sơn - một câu chuyện tình buồn</title>
-          <updated>2024-03-25T22:12:08+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-mv-chẳng-sao-cả----cao-thái-sơn---một-câu-chuyện-tình-buồn.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/36/chang-sao-ca.jpg"/>
-          <summary type="html"><p>Vào dịp 8/3 vừa qua hàng loạt ca sĩ đình đám Việt Nam đã đua nhau cho ra MV và Cao Thái Sơn cũng không ngoại lệ. Dù từ lâu không còn là một cái tên quá hot trong giới ca sĩ nhưng Cao Thái Sơn</p></summary>
         </entry></feed>
