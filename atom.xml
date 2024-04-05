@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-04T22:04:00+07:00</updated>
+                  <updated>2024-04-05T18:36:43+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/azerai-la-residence---thiên-đường-nghỉ-dưỡng-ở-huế-với-phong-cách-pháp-cổ-kính-và-sang-trọng.html</id><title>Azerai La Residence - Thiên đường nghỉ dưỡng ở Huế với phong cách Pháp cổ kính và sang trọng</title>
+          <updated>2024-04-05T18:36:43+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/azerai-la-residence---thiên-đường-nghỉ-dưỡng-ở-huế-với-phong-cách-pháp-cổ-kính-và-sang-trọng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/57/Azerai_La_Residence.jpg"/>
+          <summary type="html"><p>Từ lâu người ta đã biết đến Huế là một thành phố bình yên, thơ mộng, xinh đẹp và thu hút rất nhiều khách du lịch đến viếng thăm. Khi đến Huế, một trong những khu nghỉ dưỡng 5 sao nổi bật về cả kiến trúc và chất lượng dịch vụ</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/ẩm-thực-đường-phố-sài-gòn---bò-kho-bột-chiên-nem-nướng.html</id><title>Ẩm thực đường phố Sài Gòn - Bò kho, bột chiên, nem nướng</title>
           <updated>2024-04-04T22:04:00+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/ẩm-thực-đường-phố-sài-gòn---bò-kho-bột-chiên-nem-nướng.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-sách---ngủ-cùng-người-chết---thảo-trang.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/38/ngu-cung-nguoi-chet.jpg"/>
           <summary type="html"><p>Ngủ Cùng Người Chết bắt đầu với nhân vật Linh. Một lần trong đêm mưa gió ở miền biên giới phía Bắc heo hút, có một gia đình vào nhà cô xin trú nhờ. Gồm ông bố bà mẹ béo mập và một đứa con trai nhỏ tuồi</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-sách---tuần-trăng-mật-màu-xanh---nguyễn-thị-hoàng.html</id><title>Review sách - tuần trăng mật màu xanh - Nguyễn Thị Hoàng</title>
-          <updated>2024-03-26T21:43:59+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-sách---tuần-trăng-mật-màu-xanh---nguyễn-thị-hoàng.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/37/Tuan-trang-mat-mau-xanh-1-1-min-scaled.jpg"/>
-          <summary type="html"><p>Chiến tranh! Đôi khi nó khiến chúng ta sống trong nguy hiểm, khiến chúng ta thấy ngột ngạt. Tâm trạng của những người lính dù là ở chiến tuyến nào cũng đều thế.</p></summary>
         </entry></feed>
