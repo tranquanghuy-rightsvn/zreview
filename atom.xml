@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-05T22:42:50+07:00</updated>
+                  <updated>2024-04-06T20:40:36+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/bánh-ép-trang---món-ăn-vặt-độc-đáo-ở-huế-không-nên-bỏ-qua.html</id><title>Bánh ép Trang - món ăn vặt độc đáo ở Huế không nên bỏ qua</title>
+          <updated>2024-04-06T20:40:36+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/bánh-ép-trang---món-ăn-vặt-độc-đáo-ở-huế-không-nên-bỏ-qua.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/59/lam-banh-ep-hue-Trang.jpg"/>
+          <summary type="html"><p>Bánh ép là một món ăn vặt rất độc đáo và phổ biến của nền ẩm thực xứ Huế. Để thưởng thức được chiếc bánh ép ngon, đậm đà và đúng vị, một trong những lựa chọn đầu tiên mà bạn không nên bỏ qua là quán bánh ép Trang</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-một-ngày-rồi-thôi---những-câu-chuyện-tình-buồn---nguyễn-thị-hoàng.html</id><title>Review Một ngày rồi thôi - Những câu chuyện tình buồn - Nguyễn Thị Hoàng</title>
           <updated>2024-04-05T22:42:50+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-một-ngày-rồi-thôi---những-câu-chuyện-tình-buồn---nguyễn-thị-hoàng.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-sáng-đèn---sự-lụi-tàn-của-gánh-cải-lương.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/40/1920x1000_sang_den.jpg"/>
           <summary type="html"><p>Dự kiến ra rạp vào dịp Tết nhưng sau đó bị dời lịch chiếu lại hơn một tháng để tránh đụng độ với những phim Tết trong và ngoài nước, bộ phim Sáng Đèn chính thức ra rạp ngày 22/3</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-nhà-hàng-tiệc-cưới-mạnh-hải---thị-trấn-nghèn-can-lộc.html</id><title>Review nhà hàng tiệc cưới Mạnh Hải - thị trấn Nghèn Can Lộc</title>
-          <updated>2024-03-26T23:00:11+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-nhà-hàng-tiệc-cưới-mạnh-hải---thị-trấn-nghèn-can-lộc.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/39/nha-hang-tiec-cuoi-manh-hai.jpg"/>
-          <summary type="html"><p>Từ lâu nhà hàng Mạnh Hải đã được người dân địa phương thị trấn Nghèn tin tưởng lựa chọn làm nơi tổ chức cưới hỏi cho con cái. Nằm ở vị trí đắc địa ngay đường quốc lộ 1 A, nhà hàng Mạnh Hải rất tiện cho </p></summary>
         </entry></feed>
