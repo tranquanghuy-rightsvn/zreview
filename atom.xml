@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-06T20:40:36+07:00</updated>
+                  <updated>2024-04-06T21:51:28+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-hội-sách-đà-nẵng-buffet-59k---mua-sách-được-tặng-vàng.html</id><title>Review Hội sách Đà Nẵng buffet 59k - Mua sách được tặng vàng</title>
+          <updated>2024-04-06T21:51:28+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-hội-sách-đà-nẵng-buffet-59k---mua-sách-được-tặng-vàng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/60/hoi-sahc-buffet-da-nang-59k.jpg"/>
+          <summary type="html"><p>Vậy là hội sách buffet 59k ở Đà Nẵng đã chính thức diễn ra ngày đầu tiên. Qua bao nhiêu ngày háo hức chờ đợi thì cuối cùng mình cũng được tham gia trải nghiệm ngày hội sách đông vui nhất từ trước đến giờ, tổ chức tại</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/bánh-ép-trang---món-ăn-vặt-độc-đáo-ở-huế-không-nên-bỏ-qua.html</id><title>Bánh ép Trang - món ăn vặt độc đáo ở Huế không nên bỏ qua</title>
           <updated>2024-04-06T20:40:36+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/bánh-ép-trang---món-ăn-vặt-độc-đáo-ở-huế-không-nên-bỏ-qua.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-sách---dưới-cánh-đại-bàng---hoàng-yến.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/41/duoi-canh-dai-bang-5.jpg"/>
           <summary type="html"><p>Ba mươi năm trước bài sấm này vốn chỉ có bốn câu thơ đầu đánh dấu sự thay đổi triều đại từ Tiền Lê sang nhà Lý. Không ai ngờ vào thời vua Lý Thái Tông ba mươi năm sau thì cây gạo làng Diên Uẩn</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-phim-sáng-đèn---sự-lụi-tàn-của-gánh-cải-lương.html</id><title>Review phim Sáng đèn - Sự lụi tàn của gánh cải lương</title>
-          <updated>2024-03-27T11:38:53+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-sáng-đèn---sự-lụi-tàn-của-gánh-cải-lương.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/40/1920x1000_sang_den.jpg"/>
-          <summary type="html"><p>Dự kiến ra rạp vào dịp Tết nhưng sau đó bị dời lịch chiếu lại hơn một tháng để tránh đụng độ với những phim Tết trong và ngoài nước, bộ phim Sáng Đèn chính thức ra rạp ngày 22/3</p></summary>
         </entry></feed>
