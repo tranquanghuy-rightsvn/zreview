@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-09T20:38:30+07:00</updated>
+                  <updated>2024-04-09T23:27:17+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-tuấn-tiền-tỉ---chặng-đường-từ-chàng-caster-game-đến-youtuber-tiền-tỉ.html</id><title>Review Tuấn Tiền Tỉ - Chặng đường từ chàng caster game đến youtuber tiền tỉ</title>
+          <updated>2024-04-09T23:27:17+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-tuấn-tiền-tỉ---chặng-đường-từ-chàng-caster-game-đến-youtuber-tiền-tỉ.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/66/tuan-tien-ti.jpg"/>
+          <summary type="html"><p>Từng là anh chàng caster game đế chế với chất giọng Thái Bình đặc trưng cùng cách nói chuyện dí dỏm và những lần ngẫu hứng xuất khẩu thành thơ, Tuấn Tiền Tỉ từng nổi tiếng trong cộng đồng game AOE Việt Nam</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/thưởng-thức-tinh-hoa-ẩm-thực-xứ-quảng-tại-quán-ăn-giếng-bá-lễ---bale-well.html</id><title>Thưởng thức tinh hoa ẩm thực xứ Quảng tại quán ăn Giếng Bá Lễ - Bale well</title>
           <updated>2024-04-09T20:38:30+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/thưởng-thức-tinh-hoa-ẩm-thực-xứ-quảng-tại-quán-ăn-giếng-bá-lễ---bale-well.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tuyển-tập-edogawa-ranpo---những-câu-chuyện-bí-ẩn-và-ly-kỳ-nhất.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/47/tuyen-tap-Edogawa-ranpo.jpg"/>
           <summary type="html"><p>Truyện của Edogawa Ranpo mình mới đọc mỗi Người Báo với Đảo Quỷ và rất ấn tượng với phong cách trinh thám pha lẫn kinh dị biến thái kỳ bí của ông. Gọi là tiểu thuyết kinh dị cũng được mà tiểu thuyết trinh thám cũng xong</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-máy-hút-bụi-deerma-giá-rẻ-đáng-mua.html</id><title>Review máy hút bụi Deerma giá rẻ đáng mua</title>
-          <updated>2024-03-30T18:01:08+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-máy-hút-bụi-deerma-giá-rẻ-đáng-mua.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/46/cam-tay-deerma-dx115c-1-org.jpg"/>
-          <summary type="html"><p>Đã bao giờ bạn nghe đến chiếc máy hút bụi mà giá chỉ có vài trăm ngàn? Tưởng khó tin nhưng đó lại là sự thật, trên tay mình đang là chiếc máy hút bụi Deerma phiên bản DX115C mình mua với giá chỉ 350.000 VND trên Shopee.</p></summary>
         </entry></feed>
