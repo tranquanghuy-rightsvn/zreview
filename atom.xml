@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-09T23:27:17+07:00</updated>
+                  <updated>2024-04-10T20:35:10+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-sản-phẩm-đồ-chơi-trẻ-em-atachoi---đồ-chơi-gỗ-trí-tuệ.html</id><title>Review sản phẩm đồ chơi trẻ em Atachoi - đồ chơi gỗ trí tuệ</title>
+          <updated>2024-04-10T20:35:10+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-sản-phẩm-đồ-chơi-trẻ-em-atachoi---đồ-chơi-gỗ-trí-tuệ.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/67/do-choi-go-thong-minh-cho-be-2-tuoi-2-atachoi.jpg"/>
+          <summary type="html"><p>Ngày nay trẻ em thường có thói quen tiếp xúc sớm với các thiết bị điện tử như ti vi, điện thoại thông minh. Vô tình mình được anh hàng xóm giới thiệu cho đồ chơi gỗ trí tuệ của Atachoi</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-tuấn-tiền-tỉ---chặng-đường-từ-chàng-caster-game-đến-youtuber-tiền-tỉ.html</id><title>Review Tuấn Tiền Tỉ - Chặng đường từ chàng caster game đến youtuber tiền tỉ</title>
           <updated>2024-04-09T23:27:17+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tuấn-tiền-tỉ---chặng-đường-từ-chàng-caster-game-đến-youtuber-tiền-tỉ.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-ích-thận-vương---thực-phẩm-chức-năng-cho-người-bị-thận.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/48/ich-than-vuong(2).jpg"/>
           <summary type="html"><p>Là thực phẩm chức năng được điều chế từ nhiều loại thảo dược quý hiếm, Ích Thận Vương là sản phẩm có tác dụng tích cực đối bệnh nhân có các bệnh liên quan đến thận.</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-tuyển-tập-edogawa-ranpo---những-câu-chuyện-bí-ẩn-và-ly-kỳ-nhất.html</id><title>Review Tuyển tập Edogawa Ranpo - những câu chuyện bí ẩn và ly kỳ nhất</title>
-          <updated>2024-03-30T22:04:49+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-tuyển-tập-edogawa-ranpo---những-câu-chuyện-bí-ẩn-và-ly-kỳ-nhất.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/47/tuyen-tap-Edogawa-ranpo.jpg"/>
-          <summary type="html"><p>Truyện của Edogawa Ranpo mình mới đọc mỗi Người Báo với Đảo Quỷ và rất ấn tượng với phong cách trinh thám pha lẫn kinh dị biến thái kỳ bí của ông. Gọi là tiểu thuyết kinh dị cũng được mà tiểu thuyết trinh thám cũng xong</p></summary>
         </entry></feed>
