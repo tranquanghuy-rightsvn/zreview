@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-12T16:17:12+07:00</updated>
+                  <updated>2024-04-12T19:50:35+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-kệ-trưng-bày-bằng-gỗ---nội-thất-sáng-tạo.html</id><title>Review kệ trưng bày bằng gỗ - nội thất Sáng Tạo</title>
+          <updated>2024-04-12T19:50:35+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-kệ-trưng-bày-bằng-gỗ---nội-thất-sáng-tạo.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/74/ke-trung-bay-san-pham-bang-go.jpg.jpg"/>
+          <summary type="html"><p>Mình là một chủ cửa hàng mua bán sửa chữa điện thoại nhỏ trên đường Lê Văn Lương, quận Nhà Bè. Đợt vừa rồi mình quyết định đặt mua kệ trưng bày gỗ của nội thất Sáng Tạo</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-top-5-địa-chỉ-bán-xì-gà-chính-hãng-ở-tp-hcm-uy-tín-trên-thị-trường.html</id><title>Review top 5 địa chỉ bán xì gà chính hãng ở TP. HCM uy tín trên thị trường</title>
           <updated>2024-04-12T16:17:12+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-top-5-địa-chỉ-bán-xì-gà-chính-hãng-ở-tp-hcm-uy-tín-trên-thị-trường.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-sách---nhựa-cây---truyện-trinh-thám-của-ane-riel.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/55/nhua-cay-review.jpg"/>
           <summary type="html"><p>Có rất nhiều cuốn sách cuốn hút độc giả đắm chìm vào nó ngay từ câu mở đầu. Và Nhựa Cây của nhà văn Ane Riel đã cuốn hút độc giả vào cái hố đen, vào thế giới tăm tối, u ám của tình yêu thương theo cách như thế.</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/zeros-là-ai-review-game-thủ-lắm-tài-nhiều-tật.html</id><title>Zeros là ai? Review game thủ lắm tài nhiều tật</title>
-          <updated>2024-04-03T22:34:10+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/zeros-là-ai-review-game-thủ-lắm-tài-nhiều-tật.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/54/Zeros-ma-vuong.jpg"/>
-          <summary type="html"><p>Từ lâu cộng đồng người chơi Liên minh huyền thoại đã không lạ lẫm gì với cái tên Zeros. Được gọi với những cái tên rất kêu như Ma vương không đầu, kẻ solokill The Shy, Global ban, anh không chỉ nổi tiếng với phong cách </p></summary>
         </entry></feed>
