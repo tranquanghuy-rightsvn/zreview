@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-13T22:11:08+07:00</updated>
+                  <updated>2024-04-14T10:12:52+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-dịch-vụ-khoan-cắt-bê-tông-phương-thảo-tại-hà-nội.html</id><title>Review dịch vụ khoan cắt bê tông Phương Thảo tại Hà Nội</title>
+          <updated>2024-04-14T10:12:52+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-khoan-cắt-bê-tông-phương-thảo-tại-hà-nội.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/76/dich-vu-khoan-cat-be-tong-ha-noi.jpg"/>
+          <summary type="html"><p>Dịch vụ khoan cắt bê tông là một trong những công việc không thể thiếu trong quá trình xây dựng và cải tạo các công trình kiến trúc. Đặc biệt tại Hà Nội, nhu cầu về dịch vụ này ngày càng tăng cao do sự phát triển mạnh mẽ của ngành xây dựng</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-biển-mỹ-khê-đà-nẵng---bờ-biển-đẹp-nhất-việt-nam.html</id><title>Review Biển Mỹ Khê Đà Nẵng - bờ biển đẹp nhất Việt Nam</title>
           <updated>2024-04-13T22:11:08+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-biển-mỹ-khê-đà-nẵng---bờ-biển-đẹp-nhất-việt-nam.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/azerai-la-residence---thiên-đường-nghỉ-dưỡng-ở-huế-với-phong-cách-pháp-cổ-kính-và-sang-trọng.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/57/Azerai_La_Residence.jpg"/>
           <summary type="html"><p>Từ lâu người ta đã biết đến Huế là một thành phố bình yên, thơ mộng, xinh đẹp và thu hút rất nhiều khách du lịch đến viếng thăm. Khi đến Huế, một trong những khu nghỉ dưỡng 5 sao nổi bật về cả kiến trúc và chất lượng dịch vụ</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/ẩm-thực-đường-phố-sài-gòn---bò-kho-bột-chiên-nem-nướng.html</id><title>Ẩm thực đường phố Sài Gòn - Bò kho, bột chiên, nem nướng</title>
-          <updated>2024-04-04T22:04:00+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/ẩm-thực-đường-phố-sài-gòn---bò-kho-bột-chiên-nem-nướng.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/56/am-thuc-duong-pho-sai-gon.jpg"/>
-          <summary type="html"><p>Tôi là một con đường của một phố ẩm thực đường phố ở Sài Gòn. Qua nhiều năm tháng, tôi đã chứng kiến, gắn bó với ẩm thực hè phố Việt Nam đến mức tôi tự hào rằng bản thân có thể nói cho các bạn biết tại sao ẩm thực đường phố</p></summary>
         </entry></feed>
