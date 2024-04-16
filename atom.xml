@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-15T22:29:07+07:00</updated>
+                  <updated>2024-04-16T09:51:23+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-địa-điểm-du-lịch-nổi-tiếng-xứ-kinh-bắc---chùa-dạm-thần-quang-tự.html</id><title>Review địa điểm du lịch nổi tiếng xứ Kinh Bắc - Chùa Dạm (Thần Quang Tự)</title>
+          <updated>2024-04-16T09:51:23+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-địa-điểm-du-lịch-nổi-tiếng-xứ-kinh-bắc---chùa-dạm-thần-quang-tự.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/82/review-chua-dam-bac-ninh-than-quang-tu.png"/>
+          <summary type="html"><p>Trải qua nhiều lần trùng tu, sửa sang, chùa Dạm (còn gọi là Đại Lãm- Thần Quang Tự) ngày càng hoàn thiện, trở thành một trong những địa danh du lịch nổi tiếng của xứ Kinh Bắc. Tôi đến chùa Dạm vào một ngày giữa tháng 2, thời điểm hành hương đầu xuân. </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-tình-thế-hiểm-nghèo---tiểu-thuyết-màu-sắc-chính-trị-của-louise-penny-và-hillary-clinton.html</id><title>Review tình thế hiểm nghèo - tiểu thuyết màu sắc chính trị của Louise Penny và Hillary Clinton</title>
           <updated>2024-04-15T22:29:07+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tình-thế-hiểm-nghèo---tiểu-thuyết-màu-sắc-chính-trị-của-louise-penny-và-hillary-clinton.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tuyển-tập-trinh-thám-con-mèo-đen-của-edgar-allan-poe.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/63/The-black-cat-Con-meo-den.jpg"/>
           <summary type="html"><p>Đợt vừa rồi mình đi hội sách Đà Nẵng và săn được cuốn Con mèo đen của Edgar Allan Poe. Tuy nhiên phải rất cố gắng thì cuối cùng mới đọc xong tuyển tập này. Sách khó đọc một phần vì câu cú lủng củng quá, một phần lớn nữa</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/nguyên-lực-studio---review-studio-chụp-ảnh-cưới-cực-kỳ-chất-lượng-ở-đà-nẵng.html</id><title>Nguyên Lực Studio - Review studio chụp ảnh cưới cực kỳ chất lượng ở Đà Nẵng</title>
-          <updated>2024-04-08T22:56:05+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/nguyên-lực-studio---review-studio-chụp-ảnh-cưới-cực-kỳ-chất-lượng-ở-đà-nẵng.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/62/nguyen-luc-studio.jpg"/>
-          <summary type="html"><p>Tuần trước, anh chị mình có tổ chức đám hỏi và nhờ mình tìm dịch vụ chụp hình uy tín ở Đà Nẵng. Vì là ngày lễ trọng đại của anh chị nên mình quyết định dạo qua hết hàng loạt các trang mạng xã hội để lựa chọn studio nào ưng ý nhất. </p></summary>
         </entry></feed>
