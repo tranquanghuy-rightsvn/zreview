@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-16T09:51:23+07:00</updated>
+                  <updated>2024-04-16T11:41:08+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-khách-sạn-minh-khuê---sự-lựa-chọn-hoàn-hảo-cho-du-lịch-quy-nhơn---bình-định.html</id><title>Review Khách sạn Minh Khuê - sự lựa chọn hoàn hảo cho du lịch Quy Nhơn - Bình Định</title>
+          <updated>2024-04-16T11:41:08+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-khách-sạn-minh-khuê---sự-lựa-chọn-hoàn-hảo-cho-du-lịch-quy-nhơn---bình-định.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/83/review-khach-san-minh-khue-review.jpg"/>
+          <summary type="html"><p> Thành phố Quy Nhơn là một thành phố du lịch do đó cũng có rất nhiều điểm lưu trú tại địa phương tuy nhiên để có một khách sạn vừa gần biển, vừa tọa lạc tại giữa lòng thành phố biển này mà giá cả hợp lý thì du khách không thể bỏ qua khách sạn Minh Khuê.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-địa-điểm-du-lịch-nổi-tiếng-xứ-kinh-bắc---chùa-dạm-thần-quang-tự.html</id><title>Review địa điểm du lịch nổi tiếng xứ Kinh Bắc - Chùa Dạm (Thần Quang Tự)</title>
           <updated>2024-04-16T09:51:23+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-địa-điểm-du-lịch-nổi-tiếng-xứ-kinh-bắc---chùa-dạm-thần-quang-tự.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-lyho-wedding---studio-chụp-anh-cưới-và-phóng-sự-cưới-đà-nẵng-điểm-mười.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/64/lyho-wedding-studio-chup-anh-cuoi.jpg"/>
           <summary type="html"><p>Mình vừa chính thức cưới vợ các bạn ạ. Mặc dù vợ chồng mình đã làm đám hỏi từ hai năm trước và đã có một em bé trai 2 tuổi nhưng đợt đó Covid bùng phát nên phải đến cuối tháng 3 này bọn mình mới chính thức tổ chức đám cưới. </p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-tuyển-tập-trinh-thám-con-mèo-đen-của-edgar-allan-poe.html</id><title>Review tuyển tập trinh thám Con mèo đen của Edgar Allan Poe</title>
-          <updated>2024-04-09T15:09:18+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-tuyển-tập-trinh-thám-con-mèo-đen-của-edgar-allan-poe.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/63/The-black-cat-Con-meo-den.jpg"/>
-          <summary type="html"><p>Đợt vừa rồi mình đi hội sách Đà Nẵng và săn được cuốn Con mèo đen của Edgar Allan Poe. Tuy nhiên phải rất cố gắng thì cuối cùng mới đọc xong tuyển tập này. Sách khó đọc một phần vì câu cú lủng củng quá, một phần lớn nữa</p></summary>
         </entry></feed>
