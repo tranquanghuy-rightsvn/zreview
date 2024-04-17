@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-16T22:27:31+07:00</updated>
+                  <updated>2024-04-17T15:23:50+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/long-nón-lá---rapper-trẻ-tài-năng-mắc-bệnh-ung-thư-quái-ác---review.html</id><title>Long Nón Lá - Rapper trẻ tài năng mắc bệnh ung thư quái ác - Review</title>
+          <updated>2024-04-17T15:23:50+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/long-nón-lá---rapper-trẻ-tài-năng-mắc-bệnh-ung-thư-quái-ác---review.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/87/long-non-la-ung-thu.png"/>
+          <summary type="html"><p>Thời gian gần đây cộng đồng mạng đang xôn xao lo lắng về thông tin Long Nón Lá - chàng rapper trẻ sinh năm 2000 từng tham gia chương trình Rap Việt mùa 3 đang trong giai đoạn chữa trị căn bệnh ung thư quái ác</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/trương-mỹ-lan-bị-tuyên-án-tử-hình---toàn-cảnh-vạn-thịnh-phát---review.html</id><title>Trương Mỹ Lan bị tuyên án tử hình - Toàn cảnh Vạn Thịnh Phát - Review</title>
           <updated>2024-04-16T22:27:31+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/trương-mỹ-lan-bị-tuyên-án-tử-hình---toàn-cảnh-vạn-thịnh-phát---review.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-trải-nghiệm-tởn-đến-già-khi-một-lần-lỡ-dại-đến-phố-đèn-đỏ.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/68/review-trai-nghiem-den-pho-den-do-ton-toi-g.jpg"/>
           <summary type="html"><p>Cao hứng trong men say thế là nó rủ 5 anh em trong đó cả tôi đi tăng hai đến tận tối. Ban đầu tôi cũng không hiểu tăng hai mà nó nói là gì nhưng sau khi được giải thích thì mới biết là đi tới phố đèn đỏ trên đường Lê Thánh Tôn.</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-sản-phẩm-đồ-chơi-trẻ-em-atachoi---đồ-chơi-gỗ-trí-tuệ.html</id><title>Review sản phẩm đồ chơi trẻ em Atachoi - đồ chơi gỗ trí tuệ</title>
-          <updated>2024-04-10T20:35:10+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-sản-phẩm-đồ-chơi-trẻ-em-atachoi---đồ-chơi-gỗ-trí-tuệ.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/67/do-choi-go-thong-minh-cho-be-2-tuoi-2-atachoi.jpg"/>
-          <summary type="html"><p>Ngày nay trẻ em thường có thói quen tiếp xúc sớm với các thiết bị điện tử như ti vi, điện thoại thông minh. Vô tình mình được anh hàng xóm giới thiệu cho đồ chơi gỗ trí tuệ của Atachoi</p></summary>
         </entry></feed>
