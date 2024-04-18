@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-17T23:16:23+07:00</updated>
+                  <updated>2024-04-18T09:13:12+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-đền-cùng---giếng-ngọc-điểm-hành-hương-không-thể-bỏ-qua-dịp-đầu-xuân.html</id><title>Review Đền Cùng - Giếng Ngọc, điểm hành hương không thể bỏ qua dịp đầu xuân.</title>
+          <updated>2024-04-18T09:13:12+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-đền-cùng---giếng-ngọc-điểm-hành-hương-không-thể-bỏ-qua-dịp-đầu-xuân.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/89/review-den-cung-gieng-ngoc-bac-ninh.jpg"/>
+          <summary type="html"><p>Cách trung tâm thành phố Bắc Ninh chưa đến 5km, đi dọc theo Đường Âu Cơ là có thể đến khu di tích lịch sử Đền Cùng, Giếng Ngọc thuộc làng Diềm, xã Hòa Long, Thành Phố Bắc Ninh, Bắc Ninh. Đây là một trong những điểm đến tâm linh</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/sang-vlog-và-thực-hư-câu-chuyện-bạo-hành-trẻ-em---review.html</id><title>Sang Vlog và thực hư câu chuyện bạo hành trẻ em - Review</title>
           <updated>2024-04-17T23:16:23+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/sang-vlog-và-thực-hư-câu-chuyện-bạo-hành-trẻ-em---review.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-cuộc-cách-mạng-của-quảng-cáo-marketing-thời-đại-số-2024.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/70/cuoc-cach-mang-marketing-quang-cao-thoi-dai-so-2024-r.jpg"/>
           <summary type="html"><p>Ngày nay khi cuộc sống ngày càng phát triển, con người ngày càng tiếp xúc thường xuyên với sản phẩm công nghệ cao, do đó xã hội dần có nhiều sự thay đổi. Cuộc cách mạng marketing thời đại số 2024 lần này</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/mémoire--shop-hoa-tươi-phong-cách-hiện-đại-cực-xinh-tại-đồng-hới--quảng-bình.html</id><title>Mémoire – Shop hoa tươi phong cách hiện đại cực xinh tại Đồng Hới – Quảng Bình</title>
-          <updated>2024-04-10T23:21:11+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/mémoire--shop-hoa-tươi-phong-cách-hiện-đại-cực-xinh-tại-đồng-hới--quảng-bình.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/69/hoa-cuoi-cam-chuong-mmorie.jpg"/>
-          <summary type="html"><p> Mình là một người khá kĩ tính nên việc chọn hoa sao cho phù hợp với áo dài và váy cưới rất quan trọng với mình. Sau khi tìm hiểu các shop hoa ở đây thì mình đã lựa chọn Mémoire và mình rất hài lòng, bó hoa của mình ai cũng khen và lên hình cực kì xinh.</p></summary>
         </entry></feed>
