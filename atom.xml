@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-20T22:15:44+07:00</updated>
+                  <updated>2024-04-20T22:19:11+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-mai---tác-phẩm-đáng-mong-chờ-của-đạo-diễn-nghìn-tỷ-trấn-thành.html</id><title>Review Mai - tác phẩm đáng mong chờ của đạo diễn nghìn tỷ Trấn Thành</title>
+          <updated>2024-04-20T22:19:11+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-mai---tác-phẩm-đáng-mong-chờ-của-đạo-diễn-nghìn-tỷ-trấn-thành.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/94/review-mai-tran-thanh.jpeg"/>
+          <summary type="html"><p> Năm 2024 đánh dấu một bước chuyển mình lớn của anh khi tác phẩm Mai với kinh phí đầu tư khủng 50 tỷ càn quét các phòng vé, chứng tỏ tài năng của đạo diễn Trấn Thành chứ không phải ăn may như những lời bóng gió trước đó.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-hoạt-huyết-dưỡng-não-traphaco---cứu-cánh-cho-những-người-thường-xuyên-đau-đầu-suy-giảm-trí-nhớ-thiếu-máu-lên-não.html</id><title>Review hoạt huyết dưỡng não Traphaco - cứu cánh cho những người thường xuyên đau đầu, suy giảm trí nhớ, thiếu máu lên não</title>
           <updated>2024-04-20T22:15:44+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-hoạt-huyết-dưỡng-não-traphaco---cứu-cánh-cho-những-người-thường-xuyên-đau-đầu-suy-giảm-trí-nhớ-thiếu-máu-lên-não.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-biển-mỹ-khê-đà-nẵng---bờ-biển-đẹp-nhất-việt-nam.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/75/bien-my-khe-review.jpg"/>
           <summary type="html"><p>Nếu bạn là một người đam mê du lịch thì Đà Nẵng có lẽ là điểm đến không thể bỏ qua trong danh sách của mình. Được thiên nhiên ưu ái ban tặng cho bờ biển cát trắng dài và đẹp, Đà Nẵng từ lâu đã được khách du lịch </p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-kệ-trưng-bày-bằng-gỗ---nội-thất-sáng-tạo.html</id><title>Review kệ trưng bày bằng gỗ - nội thất Sáng Tạo</title>
-          <updated>2024-04-12T19:50:35+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-kệ-trưng-bày-bằng-gỗ---nội-thất-sáng-tạo.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/74/ke-trung-bay-san-pham-bang-go.jpg.jpg"/>
-          <summary type="html"><p>Mình là một chủ cửa hàng mua bán sửa chữa điện thoại nhỏ trên đường Lê Văn Lương, quận Nhà Bè. Đợt vừa rồi mình quyết định đặt mua kệ trưng bày gỗ của nội thất Sáng Tạo</p></summary>
         </entry></feed>
