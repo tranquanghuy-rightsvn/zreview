@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-20T22:19:11+07:00</updated>
+                  <updated>2024-04-21T11:04:55+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-khách-sạn-phoenix-mộc-châu---sơn-la---nghĩ-dưỡng-giữa-thiên-nhiên.html</id><title>Review khách sạn Phoenix Mộc Châu - Sơn La - nghĩ dưỡng giữa thiên nhiên</title>
+          <updated>2024-04-21T11:04:55+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-khách-sạn-phoenix-mộc-châu---sơn-la---nghĩ-dưỡng-giữa-thiên-nhiên.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/95/review-khach-san-phoenix-moc-chau-son-la.jpg"/>
+          <summary type="html"><p>Phoenix Mộc Châu Resort nằm ở trung tâm của khu du lịch quốc gia Mộc Châu. Được bao phủ bởi rừng thông cổ thụ có tuổi đời hàng trăm năm tuổi. Nơi đây có khí hậu mát mẻ quanh năm được ví như Đà Lạt thu nhỏ của miền Bắc.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-mai---tác-phẩm-đáng-mong-chờ-của-đạo-diễn-nghìn-tỷ-trấn-thành.html</id><title>Review Mai - tác phẩm đáng mong chờ của đạo diễn nghìn tỷ Trấn Thành</title>
           <updated>2024-04-20T22:19:11+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-mai---tác-phẩm-đáng-mong-chờ-của-đạo-diễn-nghìn-tỷ-trấn-thành.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-khoan-cắt-bê-tông-phương-thảo-tại-hà-nội.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/76/dich-vu-khoan-cat-be-tong-ha-noi.jpg"/>
           <summary type="html"><p>Dịch vụ khoan cắt bê tông là một trong những công việc không thể thiếu trong quá trình xây dựng và cải tạo các công trình kiến trúc. Đặc biệt tại Hà Nội, nhu cầu về dịch vụ này ngày càng tăng cao do sự phát triển mạnh mẽ của ngành xây dựng</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-biển-mỹ-khê-đà-nẵng---bờ-biển-đẹp-nhất-việt-nam.html</id><title>Review Biển Mỹ Khê Đà Nẵng - bờ biển đẹp nhất Việt Nam</title>
-          <updated>2024-04-13T22:11:08+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-biển-mỹ-khê-đà-nẵng---bờ-biển-đẹp-nhất-việt-nam.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/75/bien-my-khe-review.jpg"/>
-          <summary type="html"><p>Nếu bạn là một người đam mê du lịch thì Đà Nẵng có lẽ là điểm đến không thể bỏ qua trong danh sách của mình. Được thiên nhiên ưu ái ban tặng cho bờ biển cát trắng dài và đẹp, Đà Nẵng từ lâu đã được khách du lịch </p></summary>
         </entry></feed>
