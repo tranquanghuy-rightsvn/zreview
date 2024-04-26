@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-26T14:29:08+07:00</updated>
+                  <updated>2024-04-26T14:33:35+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-khách-sạn-mường-thanh---sự-lựa-chọn-hoàn-hảo-cho-du-lịch-thành-phố-trong-mơ-đà-nẵng.html</id><title>Review Khách sạn Mường Thanh - sự lựa chọn hoàn hảo cho du lịch thành phố trong mơ Đà Nẵng</title>
+          <updated>2024-04-26T14:33:35+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-khách-sạn-mường-thanh---sự-lựa-chọn-hoàn-hảo-cho-du-lịch-thành-phố-trong-mơ-đà-nẵng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/102/khach-s-n-mu-ng-thanh.jpg"/>
+          <summary type="html"><p>Tập đoàn Mường Thanh Luxury đã quá nổi tiếng và uy tín trong lĩnh vực kinh doanh nhà hàng, khách sạn. Mường Thanh có hệ thống các khách sạn trải dài ở nhiều tỉnh thành trên cả nước như Bắc Ninh, Quảng Ninh, Thanh Hóa, Đà Nẵng</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-casanova-dalat-hotel--coffee-khám-phá-khoảnh-khắc-sang-trọng-và-lãng-mạn-tại-thành-phố-đà-lạt.html</id><title>Review Casanova Dalat Hotel  Coffee: Khám phá khoảnh khắc sang trọng và lãng mạn tại thành phố Đà Lạt</title>
           <updated>2024-04-26T14:29:08+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-casanova-dalat-hotel--coffee-khám-phá-khoảnh-khắc-sang-trọng-và-lãng-mạn-tại-thành-phố-đà-lạt.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-khách-sạn-minh-khuê---sự-lựa-chọn-hoàn-hảo-cho-du-lịch-quy-nhơn---bình-định.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/83/review-khach-san-minh-khue-review.jpg"/>
           <summary type="html"><p> Thành phố Quy Nhơn là một thành phố du lịch do đó cũng có rất nhiều điểm lưu trú tại địa phương tuy nhiên để có một khách sạn vừa gần biển, vừa tọa lạc tại giữa lòng thành phố biển này mà giá cả hợp lý thì du khách không thể bỏ qua khách sạn Minh Khuê.</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-địa-điểm-du-lịch-nổi-tiếng-xứ-kinh-bắc---chùa-dạm-thần-quang-tự.html</id><title>Review địa điểm du lịch nổi tiếng xứ Kinh Bắc - Chùa Dạm (Thần Quang Tự)</title>
-          <updated>2024-04-16T09:51:23+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-địa-điểm-du-lịch-nổi-tiếng-xứ-kinh-bắc---chùa-dạm-thần-quang-tự.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/82/review-chua-dam-bac-ninh-than-quang-tu.png"/>
-          <summary type="html"><p>Trải qua nhiều lần trùng tu, sửa sang, chùa Dạm (còn gọi là Đại Lãm- Thần Quang Tự) ngày càng hoàn thiện, trở thành một trong những địa danh du lịch nổi tiếng của xứ Kinh Bắc. Tôi đến chùa Dạm vào một ngày giữa tháng 2, thời điểm hành hương đầu xuân. </p></summary>
         </entry></feed>
