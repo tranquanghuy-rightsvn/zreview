@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-04-27T23:13:28+07:00</updated>
+                  <updated>2024-04-27T23:26:45+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-lật-mặt-7-một-điều-ước---bộ-phim-bảo-chứng-cho-tài-năng-của-đạo-diễn-lý-hải.html</id><title>Review Lật mặt 7 Một điều ước - bộ phim bảo chứng cho tài năng của đạo diễn Lý Hải</title>
+          <updated>2024-04-27T23:26:45+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-lật-mặt-7-một-điều-ước---bộ-phim-bảo-chứng-cho-tài-năng-của-đạo-diễn-lý-hải.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/106/review-lat-mat-7-mot-dieu-uoc-ly-hai.png"/>
+          <summary type="html"><p> Tiếp tục series ăn khách của loạt phim Lật mặt, từ những tập đầu tiên ra mắt công chúng cho đến Lật mặt 7, Lý Hải ngày càng chứng tỏ mình là một đạo diễn tay ngang cực kỳ mát tay khi tác phẩm review</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-website-nghe-đọc-truyện-ma-miễn-phí-truyện-ma-audio-mới-nhất--truyện-ma-rùng-rợn-kinh-dị.html</id><title>Review website nghe đọc truyện ma miễn phí: Truyện Ma Audio Mới Nhất – Truyện Ma Rùng Rợn Kinh Dị</title>
           <updated>2024-04-27T23:13:28+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-website-nghe-đọc-truyện-ma-miễn-phí-truyện-ma-audio-mới-nhất--truyện-ma-rùng-rợn-kinh-dị.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/long-nón-lá---rapper-trẻ-tài-năng-mắc-bệnh-ung-thư-quái-ác---review.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/87/long-non-la-ung-thu.png"/>
           <summary type="html"><p>Thời gian gần đây cộng đồng mạng đang xôn xao lo lắng về thông tin Long Nón Lá - chàng rapper trẻ sinh năm 2000 từng tham gia chương trình Rap Việt mùa 3 đang trong giai đoạn chữa trị căn bệnh ung thư quái ác</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/trương-mỹ-lan-bị-tuyên-án-tử-hình---toàn-cảnh-vạn-thịnh-phát---review.html</id><title>Trương Mỹ Lan bị tuyên án tử hình - Toàn cảnh Vạn Thịnh Phát - Review</title>
-          <updated>2024-04-16T22:27:31+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/trương-mỹ-lan-bị-tuyên-án-tử-hình---toàn-cảnh-vạn-thịnh-phát---review.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/86/truong-my-lan-tu-hinh-van-thinh-phat-review.jpg"/>
-          <summary type="html"><p>Trước khi vướng vào vòng lao lý, Tương Mỹ Lan được biết đến là một doanh nhân gốc Hoa giàu có, tiếng tăm. Bà là Chủ tịch Hội đồng quản trị Công ty TNHH Vạn Thịnh Phát (VTP Group) đây là doanh nghiệp đang nắm giữ</p></summary>
         </entry></feed>
