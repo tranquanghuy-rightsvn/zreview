@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-02T14:43:34+07:00</updated>
+                  <updated>2024-05-02T15:04:20+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-bộ-phim-vây-hãm-kẻ-trừng-phạt-bom-tấn-hàn-quốc-trong-hè-này.html</id><title>Review bộ phim Vây hãm: Kẻ trừng phạt - bom tấn Hàn Quốc trong hè này</title>
+          <updated>2024-05-02T15:04:20+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-bộ-phim-vây-hãm-kẻ-trừng-phạt-bom-tấn-hàn-quốc-trong-hè-này.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/109/review-phim-ke-vay-ham.jpg"/>
+          <summary type="html"><p>Vây hãm: Kẻ trừng phạt (còn được biết đến là Thành phố tội phạm 4) là bộ phim Hàn Quốc đang gây sốt mạnh mẽ, càn quét các rạp phim lớn nhỏ dù mới chỉ phát hành tại 6 quốc gia trong đó có Việt Nam</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-tà-khúc-triệu-vong-phim-kinh-dị-hàn-quốc-liệu-có-phải-phiên-bản-khác-của-quật-mộ-trùng-ma.html</id><title>Review Tà khúc triệu vong - phim kinh dị Hàn Quốc - Liệu có phải phiên bản khác của Quật mộ trùng ma?</title>
           <updated>2024-05-02T14:43:34+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tà-khúc-triệu-vong-phim-kinh-dị-hàn-quốc-liệu-có-phải-phiên-bản-khác-của-quật-mộ-trùng-ma.html"/>
@@ -122,10 +128,4 @@
           <link rel="alternate" type="text/html" href="https://zreview.vn/spoiler-one-piece-chap-1112---chi-tiết-toàn-bộ-đầy-đủ-nội-dung---review.html"/>
           <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/90/one-piece-chap-111-noi-dung-day-du-chi-tiet-toan-bo.jpg"/>
           <summary type="html"><p>Sau 3 tuần im ắng thì cuối cùng One piece chap 1112 đã chính thức lên sóng bên va không phụ lòng mong mỏi của fan hâm mộ trên khắp thế giới. Hôm nay hãy cùng Zreview review về những tình tiết mới nhất mà bọn mình vừa cập nhật được nhé</p></summary>
-        </entry><entry>
-          <id>https://zreview.vn/review-đền-cùng---giếng-ngọc-điểm-hành-hương-không-thể-bỏ-qua-dịp-đầu-xuân.html</id><title>Review Đền Cùng - Giếng Ngọc, điểm hành hương không thể bỏ qua dịp đầu xuân.</title>
-          <updated>2024-04-18T09:13:12+07:00</updated>
-          <link rel="alternate" type="text/html" href="https://zreview.vn/review-đền-cùng---giếng-ngọc-điểm-hành-hương-không-thể-bỏ-qua-dịp-đầu-xuân.html"/>
-          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/89/review-den-cung-gieng-ngoc-bac-ninh.jpg"/>
-          <summary type="html"><p>Cách trung tâm thành phố Bắc Ninh chưa đến 5km, đi dọc theo Đường Âu Cơ là có thể đến khu di tích lịch sử Đền Cùng, Giếng Ngọc thuộc làng Diềm, xã Hòa Long, Thành Phố Bắc Ninh, Bắc Ninh. Đây là một trong những điểm đến tâm linh</p></summary>
         </entry></feed>
