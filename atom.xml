@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-04T23:18:03+07:00</updated>
+                  <updated>2024-05-05T21:46:46+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-triệu-vy-từ-con-cưng-người-săn-kẻ-đón-thành-kẻ-tội-đồ-của-trung-quốc.html</id><title>Review Triệu Vy từ con cưng người săn kẻ đón thành kẻ tội đồ của Trung Quốc</title>
+          <updated>2024-05-05T21:46:46+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-triệu-vy-từ-con-cưng-người-săn-kẻ-đón-thành-kẻ-tội-đồ-của-trung-quốc.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/114/review-trieu-vy.jpeg"/>
+          <summary type="html"><p> Những vai diễn đầu đời với diễn xuất tự nhiên, thu hút, đôi mắt to tròn, gương mặt bầu bĩnh đáng yêu. Con đường nghệ thuật của Triệu Vy suôn sẻ, thuận lợi hơn rất nhiều so với chúng bạn cùng trang lứa</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-phim-cái-giá-của-hạnh-phúc---liệu-có-thoát-khỏi-cái-bóng-của-penthouse.html</id><title>Review phim Cái giá của hạnh phúc - Liệu có thoát khỏi cái bóng của Penthouse</title>
           <updated>2024-05-04T23:18:03+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-cái-giá-của-hạnh-phúc---liệu-có-thoát-khỏi-cái-bóng-của-penthouse.html"/>
