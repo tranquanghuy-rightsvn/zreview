@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-06T22:28:08+07:00</updated>
+                  <updated>2024-05-07T18:28:57+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-sapa---điểm-đến-đầy-màu-sắc-và-truyền-thống.html</id><title>Review Sapa - Điểm Đến Đầy Màu Sắc và Truyền Thống</title>
+          <updated>2024-05-07T18:28:57+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-sapa---điểm-đến-đầy-màu-sắc-và-truyền-thống.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/116/review-sapa.png"/>
+          <summary type="html"><p>Những dãy núi mơ mộng, những thửa ruộng bậc thang mênh mông và vẻ đẹp văn hóa độc đáo của các dân tộc dân dụ Sa Pa đã biến thành điểm đến không thể bỏ qua đối với du khách khi tìm kiếm sự kết hợp giữa thiên nhiên</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-chùa-bổ-đà-bắc-giang-danh-lam-thắng-cảnh-nổi-tiếng-xứ-kinh-bắc-xưa.html</id><title>Review chùa Bổ Đà Bắc Giang - danh lam thắng cảnh nổi tiếng xứ Kinh Bắc xưa</title>
           <updated>2024-05-06T22:28:08+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-chùa-bổ-đà-bắc-giang-danh-lam-thắng-cảnh-nổi-tiếng-xứ-kinh-bắc-xưa.html"/>
