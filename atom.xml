@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-07T18:28:57+07:00</updated>
+                  <updated>2024-05-08T22:12:53+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-viên-uống-rau-củ-dhc-sức-khỏe-từ-thiên-nhiên.html</id><title>Review Viên Uống Rau Củ DHC Sức Khỏe Từ Thiên Nhiên</title>
+          <updated>2024-05-08T22:12:53+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-viên-uống-rau-củ-dhc-sức-khỏe-từ-thiên-nhiên.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/117/review-vien-uong-rau-cu-dhc.png"/>
+          <summary type="html"><p>Viên uống rau củ DHC nổi tiếng bởi sự hiệu quả và tiện lợi trong việc cung cấp các dưỡng chất quan trọng cho cơ thể. Sở hữu công nghệ tiên tiến cùng với nguyên liệu tự nhiên đã giúp viên uống rau củ lọp top 10 sản phẩm</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-sapa---điểm-đến-đầy-màu-sắc-và-truyền-thống.html</id><title>Review Sapa - Điểm Đến Đầy Màu Sắc và Truyền Thống</title>
           <updated>2024-05-07T18:28:57+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-sapa---điểm-đến-đầy-màu-sắc-và-truyền-thống.html"/>
