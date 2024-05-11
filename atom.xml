@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-10T17:24:29+07:00</updated>
+                  <updated>2024-05-11T18:03:53+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-abigail---phim-kinh-dị-đáng-mong-chờ-mùa-hè-này.html</id><title>Review Abigail - Phim kinh dị đáng mong chờ mùa hè này</title>
+          <updated>2024-05-11T18:03:53+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-abigail---phim-kinh-dị-đáng-mong-chờ-mùa-hè-này.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/119/review-abigail.jpg"/>
+          <summary type="html"><p>Mùa hè này có nhiều bộ phim kinh dị hấp dẫn phục vụ các tín đồ đam mê thể loại này. Trong số đó không thể bỏ qua một phim kinh dị Âu Mỹ nổi tiếng ABIGAIL. Bộ phim dự kiến sẽ công chiếu vào ngày 17/5/2024. </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/recommend-beautiful-filming-locations-in-vietnam.html</id><title>Recommend Beautiful Filming Locations in Vietnam</title>
           <updated>2024-05-10T17:24:29+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/recommend-beautiful-filming-locations-in-vietnam.html"/>
