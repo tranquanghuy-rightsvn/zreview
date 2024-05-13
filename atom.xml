@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-12T21:30:09+07:00</updated>
+                  <updated>2024-05-13T17:14:55+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phim-stalker-tội-ác-hoàn-hảo.html</id><title>Review phim Stalker: Tội Ác Hoàn Hảo</title>
+          <updated>2024-05-13T17:14:55+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-stalker-tội-ác-hoàn-hảo.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/123/review-stalker-toi-ac-hoan-hao.jpg"/>
+          <summary type="html"><p>Bộ phim Stalker: Tội Ác Hoàn Hảo mang đến một trải nghiệm điện ảnh đầy kịch tính, với các tình tiết được bày trí một cách chặt chẽ, liên tục tạo ra những bất ngờ cho người xem. Trong tác phẩm này, ba diễn viên chính – một môi giới bất động sản</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-thuý-vi-hot-girl-tai-tiếng-với-loạt-scandal-khủng.html</id><title>Review Thuý Vi hot girl tai tiếng với loạt scandal khủng</title>
           <updated>2024-05-12T21:30:09+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-thuý-vi-hot-girl-tai-tiếng-với-loạt-scandal-khủng.html"/>
