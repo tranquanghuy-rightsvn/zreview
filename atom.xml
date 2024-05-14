@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-13T17:14:55+07:00</updated>
+                  <updated>2024-05-14T20:21:43+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-dịch-vụ-in-ấn-diệp-lâm-dieplam-printing-cần-thơ.html</id><title>Review dịch vụ in ấn Diệp Lâm (DiepLam Printing) Cần Thơ</title>
+          <updated>2024-05-14T20:21:43+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-in-ấn-diệp-lâm-dieplam-printing-cần-thơ.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/124/review-dich-vu-in-an-diep-lam-dieplam-printing-can-tho.png"/>
+          <summary type="html"><p>Dịch vụ in ấn Diệp Lâm hay còn biết đến với cái tên DiepLam Printing là một điểm siêu hot  ở thành phố Cần Thơ  đối với các học sinh - sinh viên, nhất là những bạn học về chuyên ngành thiết kế đồ họa, kiến trúc,</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-phim-stalker-tội-ác-hoàn-hảo.html</id><title>Review phim Stalker: Tội Ác Hoàn Hảo</title>
           <updated>2024-05-13T17:14:55+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-stalker-tội-ác-hoàn-hảo.html"/>
