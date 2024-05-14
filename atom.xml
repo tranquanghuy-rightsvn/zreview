@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-14T20:35:50+07:00</updated>
+                  <updated>2024-05-14T21:31:36+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-cửa-hàng-rượu-ngoại-qkawine-cơ-sở-bán-rượu-ngoại-uy-tín-.html</id><title>Review cửa hàng rượu ngoại QKAwine: Cơ sở bán rượu ngoại uy tín </title>
+          <updated>2024-05-14T21:31:36+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-cửa-hàng-rượu-ngoại-qkawine-cơ-sở-bán-rượu-ngoại-uy-tín-.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/126/review-QKAwine-cua-hang-ban-ruou-ngoai-uy-tin.jpg"/>
+          <summary type="html"><p>QKAwine có hai cơ sở, trong đó một cơ sở đặt tại 12A-TT02, HDMon City, Mỹ Đình 2, Nam Từ Liêm, Hà Nội. Cơ sở còn lại ở quận 1, TPHCM đang xây dựng và dự kiến có thể mở cửa bán lẻ trực tiếp sớm nhất cuối năm nay.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-phim-hoạt-hình-nobita-và-bản-giao-hưởng-địa-cầu.html</id><title>Review phim hoạt hình Nobita và bản giao hưởng địa cầu</title>
           <updated>2024-05-14T20:35:50+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-hoạt-hình-nobita-và-bản-giao-hưởng-địa-cầu.html"/>
