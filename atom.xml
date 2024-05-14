@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-14T20:21:43+07:00</updated>
+                  <updated>2024-05-14T20:35:50+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phim-hoạt-hình-nobita-và-bản-giao-hưởng-địa-cầu.html</id><title>Review phim hoạt hình Nobita và bản giao hưởng địa cầu</title>
+          <updated>2024-05-14T20:35:50+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-hoạt-hình-nobita-và-bản-giao-hưởng-địa-cầu.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/125/review-nobita-va-ban-giao-huong-dia-cau.png"/>
+          <summary type="html"><p>Hãy thử nghĩ xem thế giới sẽ như thế nào nếu một ngày không còn âm nhạc? Bộ phim điện ảnh Doraemon mới nhất năm 2024 sẽ là nơi để bạn khám phá ra câu trả lời và đắm chìm vào cuộc phiêu lưu ngập tràn giai điệu của Nobita cùng những người bạn. </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-dịch-vụ-in-ấn-diệp-lâm-dieplam-printing-cần-thơ.html</id><title>Review dịch vụ in ấn Diệp Lâm (DiepLam Printing) Cần Thơ</title>
           <updated>2024-05-14T20:21:43+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-in-ấn-diệp-lâm-dieplam-printing-cần-thơ.html"/>
