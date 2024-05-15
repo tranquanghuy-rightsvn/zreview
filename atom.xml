@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-15T10:27:31+07:00</updated>
+                  <updated>2024-05-15T20:59:56+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-nhà-hàng-rùa-vàng-bắc-giang.html</id><title>Review nhà hàng Rùa Vàng Bắc Giang</title>
+          <updated>2024-05-15T20:59:56+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-nhà-hàng-rùa-vàng-bắc-giang.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/128/nha-hang-rua-vang-bac-giang.jpg"/>
+          <summary type="html"><p>Tôi đến nhà hàng Rùa Vàng vào một ngày cuối tuần đẹp trời do có hẹn với lũ bạn học cùng cấp ba. Ưu tiên hàng đầu khi chọn nhà hàng của chúng tôi là một không riêng tư, ấm cúng sau nữa là các món ăn phong phú</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-tứ-quý-care-dịch-vụ-sửa-chữa-điện-thoại-uy-tín-nhất-cần-thơ.html</id><title>Review Tứ Quý Care: Dịch vụ sửa chữa điện thoại uy tín nhất Cần Thơ</title>
           <updated>2024-05-15T10:27:31+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tứ-quý-care-dịch-vụ-sửa-chữa-điện-thoại-uy-tín-nhất-cần-thơ.html"/>
