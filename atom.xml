@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-14T21:31:36+07:00</updated>
+                  <updated>2024-05-15T10:27:31+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-tứ-quý-care-dịch-vụ-sửa-chữa-điện-thoại-uy-tín-nhất-cần-thơ.html</id><title>Review Tứ Quý Care: Dịch vụ sửa chữa điện thoại uy tín nhất Cần Thơ</title>
+          <updated>2024-05-15T10:27:31+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-tứ-quý-care-dịch-vụ-sửa-chữa-điện-thoại-uy-tín-nhất-cần-thơ.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/127/review-tu-quy-care-sua-chua-dien-thoai-can-tho.png"/>
+          <summary type="html"><p>Tôi đã phải sử dụng dịch vụ  sửa chữa điện thoại rất nhiều lần trong suốt một khoảng thời gian dài vừa qua, và nơi tôi luôn tin tưởng lựa chọn sử dụng dịch vụ chính là Tứ Quý Care</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-cửa-hàng-rượu-ngoại-qkawine-cơ-sở-bán-rượu-ngoại-uy-tín-.html</id><title>Review cửa hàng rượu ngoại QKAwine: Cơ sở bán rượu ngoại uy tín </title>
           <updated>2024-05-14T21:31:36+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-cửa-hàng-rượu-ngoại-qkawine-cơ-sở-bán-rượu-ngoại-uy-tín-.html"/>
