@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-17T09:34:50+07:00</updated>
+                  <updated>2024-05-17T10:30:51+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-ryu-jun-yeol-chàng-diễn-viên-xấu-lạ-với-mối-tình-tay-ba-dậy-sóng.html</id><title>Review Ryu Jun Yeol: chàng diễn viên xấu lạ với mối tình tay ba dậy sóng</title>
+          <updated>2024-05-17T10:30:51+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-ryu-jun-yeol-chàng-diễn-viên-xấu-lạ-với-mối-tình-tay-ba-dậy-sóng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/132/Review-Ryu-jun-yeol.png"/>
+          <summary type="html"><p>Ryu Jun Yeol sở hữu chiều cao 1,83m cùng gương mặt được cho là xấu lạ trong giới diễn viên Hàn Quốc, điều đó khiến anh được đánh giá là không phù hợp với ngành giải trí, đặc biệt là ở một nơi vốn ưa chuộng hình thức như Hàn Quốc</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-studio-chụp-ảnh-cưới-nghĩa-ngô-cần-thơ.html</id><title>Review studio chụp ảnh cưới Nghĩa Ngô Cần Thơ</title>
           <updated>2024-05-17T09:34:50+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-studio-chụp-ảnh-cưới-nghĩa-ngô-cần-thơ.html"/>
