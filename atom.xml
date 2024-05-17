@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-16T21:23:22+07:00</updated>
+                  <updated>2024-05-17T09:34:50+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-studio-chụp-ảnh-cưới-nghĩa-ngô-cần-thơ.html</id><title>Review studio chụp ảnh cưới Nghĩa Ngô Cần Thơ</title>
+          <updated>2024-05-17T09:34:50+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-studio-chụp-ảnh-cưới-nghĩa-ngô-cần-thơ.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/131/review-nghia-ngo-studio.png"/>
+          <summary type="html"><p>Điều đầu tiên khiến chúng mình có ấn tượng với Nghĩa Ngô Studio chính là chất lượng hình ảnh của studio. Sau khi xem được các bức ảnh trên fanpage của studio mình thấy hình ảnh có độ sắc nét cao, màu ảnh rất tươi sáng và đa dạng phong các</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-viên-uống-dầu-cá-omega-3-6-9-của-member-s-mark-supports-heart-health.html</id><title>Review Viên uống dầu cá Omega 3-6-9 của Member s Mark Supports Heart Health</title>
           <updated>2024-05-16T21:23:22+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-viên-uống-dầu-cá-omega-3-6-9-của-member-s-mark-supports-heart-health.html"/>
