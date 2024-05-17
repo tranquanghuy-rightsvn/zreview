@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-17T10:30:51+07:00</updated>
+                  <updated>2024-05-17T18:32:31+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-dịch-vụ-thuê-xe-đi-campuchia-nhà-xe-thái-dương.html</id><title>Review dịch vụ thuê xe đi Campuchia nhà xe Thái Dương</title>
+          <updated>2024-05-17T18:32:31+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-thuê-xe-đi-campuchia-nhà-xe-thái-dương.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/133/review-dich-vu-thue-xe-di-campuchia-nha-xe-thai-duong.png"/>
+          <summary type="html"><p>. Sau khi tìm hiểu qua các nhóm chia sẻ kinh nghiệm du lịch Campuchia, tụi mình nhận thấy có rất nhiều người gợi ý sử dụng dịch vụ của nhà xe Thái Dương. Chính vì vậy, chúng mình đã quyết định chọn thuê xe tại nhà xe </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-ryu-jun-yeol-chàng-diễn-viên-xấu-lạ-với-mối-tình-tay-ba-dậy-sóng.html</id><title>Review Ryu Jun Yeol: chàng diễn viên xấu lạ với mối tình tay ba dậy sóng</title>
           <updated>2024-05-17T10:30:51+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-ryu-jun-yeol-chàng-diễn-viên-xấu-lạ-với-mối-tình-tay-ba-dậy-sóng.html"/>
