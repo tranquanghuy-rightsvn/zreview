@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-17T19:09:11+07:00</updated>
+                  <updated>2024-05-20T16:19:24+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phòng-khám-thú-y-uy-tín-hàng-đầu-tphcm---vpets.html</id><title>Review phòng khám thú y uy tín hàng đầu TPHCM - Vpet’s</title>
+          <updated>2024-05-20T16:19:24+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phòng-khám-thú-y-uy-tín-hàng-đầu-tphcm---vpets.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/135/phong-kham-thu-y-uy-tin-tp-hcm-vpets.png"/>
+          <summary type="html"><p>Phòng khám mà mình đã tin tưởng cho bé Mè (tên thường gọi ở nhà của bé Mèo nhà mình) đến chữa FIP là Phòng khám thú y Vpet’s ở 329 Nguyễn Tiểu La phường 8 quận 10.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-dịch-vụ-thuê-xe-thái-dương-limousine-.html</id><title>Review dịch vụ thuê xe Thái Dương Limousine </title>
           <updated>2024-05-17T19:09:11+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-thuê-xe-thái-dương-limousine-.html"/>
