@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-21T10:24:19+07:00</updated>
+                  <updated>2024-05-22T13:48:54+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phim-gia-tài-của-ngoại---siêu-phẩm-thái-lan-ra-rạp-tháng-6.html</id><title>Review phim gia tài của ngoại - siêu phẩm Thái Lan ra rạp tháng 6</title>
+          <updated>2024-05-22T13:48:54+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-gia-tài-của-ngoại---siêu-phẩm-thái-lan-ra-rạp-tháng-6.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/138/gia-tai-cua-ngoa%CC%A3i-review.jpg"/>
+          <summary type="html"><p>Đề tài về tình cảm gia đình không mới trên màn ảnh nhỏ, với thị trường điện ảnh Thái Lan, các bộ phim về tình cảm tâm lý gia đình cũng không ít. Phim kể về một chàng trai tên là M (Billkin Putthipong Assaratanakul thủ vai)</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-dịch-vụ-chuyển-nhà-trọn-gói-tâm-nguyên---cần-thơ.html</id><title>Review dịch vụ chuyển nhà trọn gói Tâm Nguyên - Cần Thơ</title>
           <updated>2024-05-21T10:24:19+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-chuyển-nhà-trọn-gói-tâm-nguyên---cần-thơ.html"/>
