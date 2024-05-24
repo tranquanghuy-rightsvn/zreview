@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-23T20:43:34+07:00</updated>
+                  <updated>2024-05-24T10:17:29+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-người-mẫu-quế-vân-và-những-scandal-phát-ngôn-vạ-miệng.html</id><title>Review người mẫu Quế Vân và những scandal phát ngôn vạ miệng</title>
+          <updated>2024-05-24T10:17:29+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-người-mẫu-quế-vân-và-những-scandal-phát-ngôn-vạ-miệng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/143/1446297654-1446270527-que-van-20--2-.jpg"/>
+          <summary type="html"><p>Quế Vân vừa là một người mẫu kiêm ca sĩ, với gương mặt đẹp, vóc dáng trời ban, cô luôn gây chú ý mỗi lần xuất hiện. Tuy nhiên công chúng biết đến Quế Vân không phải vì những điều đó mà phần nhiều là do những phát ngôn vạ miệng của cô</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-dịch-vụ-thuê-xe-thái-dương-limousine---chất-lượng-và-uy-tín.html</id><title>Review dịch vụ thuê xe Thái Dương Limousine - chất lượng và uy tín</title>
           <updated>2024-05-23T20:43:34+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-thuê-xe-thái-dương-limousine---chất-lượng-và-uy-tín.html"/>
