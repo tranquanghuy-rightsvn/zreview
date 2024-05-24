@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-24T10:17:29+07:00</updated>
+                  <updated>2024-05-24T17:13:11+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phim-ngôi-đền-kỳ-quái-4---bom-tấn-kinh-dị-hài-hước-của-thái-lan.html</id><title>Review phim: Ngôi đền kỳ quái 4 - bom tấn kinh dị hài hước của Thái Lan</title>
+          <updated>2024-05-24T17:13:11+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-ngôi-đền-kỳ-quái-4---bom-tấn-kinh-dị-hài-hước-của-thái-lan.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/144/thumb-peenak4.jpg"/>
+          <summary type="html"><p>Ngôi đền kỳ quái 4 tiếng Thái là Pee Nak từng ra mắt vào năm 2019, 2020 và 2022. Thương hiệu kinh dị đình đám xứ Thái đã làm mưa làm gió trong nước cũng như các rạp chiếu phim quốc tế. Nối tiếp thành công của loạt phim này</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-người-mẫu-quế-vân-và-những-scandal-phát-ngôn-vạ-miệng.html</id><title>Review người mẫu Quế Vân và những scandal phát ngôn vạ miệng</title>
           <updated>2024-05-24T10:17:29+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-người-mẫu-quế-vân-và-những-scandal-phát-ngôn-vạ-miệng.html"/>
