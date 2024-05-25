@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-24T17:13:11+07:00</updated>
+                  <updated>2024-05-25T17:06:12+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/lê-bống-là-ai---tiểu-sử-nữ-chính-bộ-phim-lỡ-hẹn-với-ngày-xanh.html</id><title>Lê Bống là ai - tiểu sử nữ chính bộ phim lỡ hẹn với ngày xanh</title>
+          <updated>2024-05-25T17:06:12+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/lê-bống-là-ai---tiểu-sử-nữ-chính-bộ-phim-lỡ-hẹn-với-ngày-xanh.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/145/le-bong-la-ai.jpg"/>
+          <summary type="html"><p>Trước khi gây chú ý với vai nữ chính của bộ phim Lỡ hẹn với ngày xanh đang phát sóng trên khung giờ vàng của VTV, Lê Bống được biết đến là một Tiktoker tai tiếng với những hình ảnh phản cảm, gây ảnh hưởng không tốt với giới tr</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-phim-ngôi-đền-kỳ-quái-4---bom-tấn-kinh-dị-hài-hước-của-thái-lan.html</id><title>Review phim: Ngôi đền kỳ quái 4 - bom tấn kinh dị hài hước của Thái Lan</title>
           <updated>2024-05-24T17:13:11+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-ngôi-đền-kỳ-quái-4---bom-tấn-kinh-dị-hài-hước-của-thái-lan.html"/>
