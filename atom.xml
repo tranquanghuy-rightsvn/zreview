@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-25T21:26:56+07:00</updated>
+                  <updated>2024-05-26T10:43:08+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-rừng-thông-bản-áng--cảnh-đẹp-không-thể-bỏ-lỡ-khi-ghé-mộc-châu.html</id><title>Review rừng thông Bản Áng- cảnh đẹp không thể bỏ lỡ khi ghé Mộc Châu</title>
+          <updated>2024-05-26T10:43:08+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-rừng-thông-bản-áng--cảnh-đẹp-không-thể-bỏ-lỡ-khi-ghé-mộc-châu.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/147/review-rung-thong-ban-ang-hoi-tho-cua-su-phong-khoang-trong-lanh-vung-tay-bac-06-1646058953.jpg"/>
+          <summary type="html"><p>Mộc Châu được thiên nhiên ưu ái ban tặng không khí trong lành, mát mẻ quanh năm, đặc biệt là cây cối xanh tươi, chim chóc hót líu lo và muôn hoa đua nở. Những địa điểm du lịch ở Mộc Châu luôn thu hút khách bởi sự thơ mộng, quyến rũ</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-lốc-xoáy-tử-thần-twisters---bom-tấn-về-thảm-họa-thiên-nhiên.html</id><title>Review Lốc xoáy tử thần (twisters) - bom tấn về thảm họa thiên nhiên</title>
           <updated>2024-05-25T21:26:56+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-lốc-xoáy-tử-thần-twisters---bom-tấn-về-thảm-họa-thiên-nhiên.html"/>
