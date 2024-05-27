@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-05-27T09:39:34+07:00</updated>
+                  <updated>2024-05-27T17:12:04+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phim-mùa-hè-đẹp-nhất---phim-tình-cảm-học-đường-đáng-xem.html</id><title>Review phim Mùa hè đẹp nhất - phim tình cảm học đường đáng xem</title>
+          <updated>2024-05-27T17:12:04+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-mùa-hè-đẹp-nhất---phim-tình-cảm-học-đường-đáng-xem.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/149/phim-Mua-He-Dep-Nhat-1024x731.jpg"/>
+          <summary type="html"><p>Đường đua phim Việt tháng 6 này tiếp tục có sự góp mặt của một số bộ phim tâm lý, hài tình cảm trong đó đáng lưu ý là bộ phim mang tên Mùa hè đẹp nhất. Phim có sự tham gia của dàn diễn viên trẻ, đẹp cùng người dẫn dắt tài ba</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-toni-kroos--hồi-kết-cho-chàng-tiền-vệ-điển-trai-người-đức.html</id><title>Review Toni Kroos – Hồi kết cho chàng tiền vệ điển trai người Đức</title>
           <updated>2024-05-27T09:39:34+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-toni-kroos--hồi-kết-cho-chàng-tiền-vệ-điển-trai-người-đức.html"/>
