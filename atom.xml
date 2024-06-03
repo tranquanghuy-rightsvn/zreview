@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-03T10:37:07+07:00</updated>
+                  <updated>2024-06-03T16:48:06+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/sóng-ở-đáy-sông---so-sánh-nội-dung-truyện-và-phim-khác-gì-nhau---review.html</id><title>Sóng ở đáy sông - So sánh nội dung truyện và phim khác gì nhau - Review</title>
+          <updated>2024-06-03T16:48:06+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/sóng-ở-đáy-sông---so-sánh-nội-dung-truyện-và-phim-khác-gì-nhau---review.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/157/5008610_chrome_2020-05-03_21-13-06.png"/>
+          <summary type="html"><p>Sóng ở đáy sông là bộ phim được đạo diễn Lê Đức Tiến chuyển thể từ tiểu thuyết cùng tên của nhà văn Lê Lựu. Truyện kể về cuộc đời của nhân vật chính Núi - từ một cậu học sinh thông minh, lanh lợi, giỏi dang dần dần bị cuộc đời xô đẩy</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/hạ-quân-tường-là-ai---review-nam-thần-xứ-trung-đình-đám-một-thời-nay-trở-thành-con-ghẻ-trong-mắt-công-chúng.html</id><title>Hạ Quân Tường là ai? - Review nam thần xứ Trung đình đám một thời nay trở thành con ghẻ trong mắt công chúng</title>
           <updated>2024-06-03T10:37:07+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/hạ-quân-tường-là-ai---review-nam-thần-xứ-trung-đình-đám-một-thời-nay-trở-thành-con-ghẻ-trong-mắt-công-chúng.html"/>
