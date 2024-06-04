@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-03T16:48:06+07:00</updated>
+                  <updated>2024-06-04T10:50:13+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/song-joong-ki-là-ai---review-sao-nam-thực-lực-hàn-quốc-và-những-scandal-tai-tiếng.html</id><title>Song Joong Ki là ai? - Review sao nam thực lực Hàn Quốc và những scandal tai tiếng</title>
+          <updated>2024-06-04T10:50:13+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/song-joong-ki-là-ai---review-sao-nam-thực-lực-hàn-quốc-và-những-scandal-tai-tiếng.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/158/topp-kim1.jpg"/>
+          <summary type="html"><p>Song Joong Ki là nam diễn viên nổi tiếng hàng đầu Hàn Quốc. Góp mặt trong hàng loạt những dự án phim ăn khách xứ Hàn như Năm Giác Quan Của Thần Tình Ái, Triple, Giáng Sinh Tuyết Có Rơi, Vụ Án Mạng Ở Itaewon, Hậu duệ mặt trời</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/sóng-ở-đáy-sông---so-sánh-nội-dung-truyện-và-phim-khác-gì-nhau---review.html</id><title>Sóng ở đáy sông - So sánh nội dung truyện và phim khác gì nhau - Review</title>
           <updated>2024-06-03T16:48:06+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/sóng-ở-đáy-sông---so-sánh-nội-dung-truyện-và-phim-khác-gì-nhau---review.html"/>
