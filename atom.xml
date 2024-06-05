@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-04T18:57:25+07:00</updated>
+                  <updated>2024-06-05T21:19:26+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-chaien-cattery---pet-shop--vet-clinic-phòng-khám-thú-y-hiện-đại-và-uy-tín-nhất-cần-thơ.html</id><title>Review Chaien Cattery - Pet Shop  Vet Clinic: Phòng khám thú y hiện đại và uy tín nhất Cần Thơ</title>
+          <updated>2024-06-05T21:19:26+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-chaien-cattery---pet-shop--vet-clinic-phòng-khám-thú-y-hiện-đại-và-uy-tín-nhất-cần-thơ.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/160/review-phong-kham-thu-y-can-tho.png"/>
+          <summary type="html"><p>Mình cũng có hai người bạn nhỏ đáng yêu tên là Ben và Bam. Ngay từ những ngày đầu tiên đón các em về nhà, vấn đề mình luôn quan tâm hàng đầu chính là làm sao để chăm sóc sức khỏe cho cả hai một cách tốt nhất</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/xoài-non-là-ai---thực-hư-câu-chuyện-rạn-nứt-tình-cảm-giữa-xoài-non-và-xemesis.html</id><title>Xoài non là ai? - Thực hư câu chuyện rạn nứt tình cảm giữa Xoài Non và Xemesis</title>
           <updated>2024-06-04T18:57:25+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/xoài-non-là-ai---thực-hư-câu-chuyện-rạn-nứt-tình-cảm-giữa-xoài-non-và-xemesis.html"/>
