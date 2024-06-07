@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-07T13:49:40+07:00</updated>
+                  <updated>2024-06-07T16:21:26+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/chu-bin-là-ai---năm-2024-đầy-tai-ương-của-ca-sĩ-chu-bin---review.html</id><title>Chu Bin là ai - Năm 2024 đầy tai ương của ca sĩ Chu Bin - Review</title>
+          <updated>2024-06-07T16:21:26+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/chu-bin-là-ai---năm-2024-đầy-tai-ương-của-ca-sĩ-chu-bin---review.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/164/review-ca-si-chu-bin-la-ai.png"/>
+          <summary type="html"><p>Là một ca sĩ chuyên hát ở phòng trà, quán bar, Chu Bin có sự nghiệp không quá nổi bật như những người bạn cùng trang lứa. Thời gian gần đây công chúng sốc nặng khi ca sĩ này liên quan đến sử dụng trái phép </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/angela-phương-trinh-là-ai---review-cô-gái-tài-năng-nhưng-cũng-không-ít-scandal.html</id><title>Angela Phương Trinh là ai? - Review cô gái tài năng nhưng cũng không ít scandal</title>
           <updated>2024-06-07T13:49:40+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/angela-phương-trinh-là-ai---review-cô-gái-tài-năng-nhưng-cũng-không-ít-scandal.html"/>
