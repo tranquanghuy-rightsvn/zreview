@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-06T10:45:46+07:00</updated>
+                  <updated>2024-06-07T13:49:40+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/angela-phương-trinh-là-ai---review-cô-gái-tài-năng-nhưng-cũng-không-ít-scandal.html</id><title>Angela Phương Trinh là ai? - Review cô gái tài năng nhưng cũng không ít scandal</title>
+          <updated>2024-06-07T13:49:40+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/angela-phương-trinh-là-ai---review-cô-gái-tài-năng-nhưng-cũng-không-ít-scandal.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/163/review-angela-phuong-trinh-la-ai-scandal.png"/>
+          <summary type="html"><p>Angela Phương Trinh sinh năm 1995, tên thật là Lê Ngọc Phương Trinh, cô sinh ra và lớn lên trong một gia đình bình thường ở TPHCM. Bố mẹ cô sinh được hai con, cô là chị cả và dưới cô là cô em gái tên là Lê Ngọc Phương Trang</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-lẩu-riêu-cua-kinh-bắc---ẩm-thực-ngon-bổ-rẻ-đất-quan-họ.html</id><title>Review Lẩu riêu cua Kinh Bắc - ẩm thực ngon, bổ, rẻ đất quan họ</title>
           <updated>2024-06-06T10:45:46+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-lẩu-riêu-cua-kinh-bắc---ẩm-thực-ngon-bổ-rẻ-đất-quan-họ.html"/>
