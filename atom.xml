@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-11T15:26:35+07:00</updated>
+                  <updated>2024-06-12T11:28:27+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-tam-cốc-bích-động-ninh-bình-cảnh-đẹp-non-nước-hữu-tình-của-tràng-an.html</id><title>Review Tam Cốc Bích Động Ninh Bình cảnh đẹp non nước hữu tình của Tràng An</title>
+          <updated>2024-06-12T11:28:27+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-tam-cốc-bích-động-ninh-bình-cảnh-đẹp-non-nước-hữu-tình-của-tràng-an.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/169/review-tam-coc-bich-dong-trang-an-ninh-binh.png"/>
+          <summary type="html"><p>Tam Cốc Bích Động Ninh Bình thuộc địa phận huyện Hoa Lư, tỉnh Ninh Bình, chỉ cách Hà Nội khoảng 100km về phía Nam. Đường đi Tam Cốc khá thuận tiện bởi đường quốc lộ rộng, dễ đi, chỉ khoảng hơn một tiếng đồng hồ chạy xe là bạn đã đến nơi.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-khách-sạn-nalicas-nha-trang---khách-sạn-4-sao-đẳng-cấp.html</id><title>Review khách sạn Nalicas Nha Trang - Khách sạn 4 sao đẳng cấp</title>
           <updated>2024-06-11T15:26:35+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-khách-sạn-nalicas-nha-trang---khách-sạn-4-sao-đẳng-cấp.html"/>
