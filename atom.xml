@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-12T11:28:27+07:00</updated>
+                  <updated>2024-06-13T17:06:48+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/chiến-nguyễn-là-ai---chủ-thương-hiệu-1900-hair-salon-và-lùm-xùm-ăn-chặn-tóc-của-bệnh-nhân-ung-thư.html</id><title>Chiến Nguyễn là ai? - chủ thương hiệu 1900 Hair Salon và lùm xùm ăn chặn tóc của bệnh nhân ung thư</title>
+          <updated>2024-06-13T17:06:48+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/chiến-nguyễn-là-ai---chủ-thương-hiệu-1900-hair-salon-và-lùm-xùm-ăn-chặn-tóc-của-bệnh-nhân-ung-thư.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/170/review-chien-nguyen-la-ai-lum-xum-toc-benh-nhan-ung-thu.png"/>
+          <summary type="html"><p>Ngày 13/6 trên một số fanpage người dùng mạng xã hội đã chia sẻ thông tin 1900 Hair Salon giấu nhẹm tới hơn 700 bộ tóc hiến và chỉ trao cho khoảng 50 tóc cho bệnh nhân ung thư. </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-tam-cốc-bích-động-ninh-bình-cảnh-đẹp-non-nước-hữu-tình-của-tràng-an.html</id><title>Review Tam Cốc Bích Động Ninh Bình cảnh đẹp non nước hữu tình của Tràng An</title>
           <updated>2024-06-12T11:28:27+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tam-cốc-bích-động-ninh-bình-cảnh-đẹp-non-nước-hữu-tình-của-tràng-an.html"/>
