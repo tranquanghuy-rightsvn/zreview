@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-13T17:06:48+07:00</updated>
+                  <updated>2024-06-14T16:54:27+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-nhà-hàng-hương-quê----nhà-hàng-đáng-ghé-thăm-khi-du-lịch-tam-đảo.html</id><title>Review nhà hàng Hương Quê  - Nhà hàng đáng ghé thăm khi du lịch Tam Đảo</title>
+          <updated>2024-06-14T16:54:27+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-nhà-hàng-hương-quê----nhà-hàng-đáng-ghé-thăm-khi-du-lịch-tam-đảo.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/171/review-nha-hang-huong-que-tam-dao-vinh-phuc.png"/>
+          <summary type="html"><p>Nhà hàng Hương Quê tọa lạc tại đường Nguyễn Tất Thành, TP Vĩnh Yên, Vĩnh Phúc. Nhà hàng nằm ở vị trí đắc địa, giáp ranh giữa thành phố Vĩnh Yên và khu du lịch Tam Đảo.</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/chiến-nguyễn-là-ai---chủ-thương-hiệu-1900-hair-salon-và-lùm-xùm-ăn-chặn-tóc-của-bệnh-nhân-ung-thư.html</id><title>Chiến Nguyễn là ai? - chủ thương hiệu 1900 Hair Salon và lùm xùm ăn chặn tóc của bệnh nhân ung thư</title>
           <updated>2024-06-13T17:06:48+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/chiến-nguyễn-là-ai---chủ-thương-hiệu-1900-hair-salon-và-lùm-xùm-ăn-chặn-tóc-của-bệnh-nhân-ung-thư.html"/>
