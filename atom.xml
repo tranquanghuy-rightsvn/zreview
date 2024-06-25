@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-25T09:49:28+07:00</updated>
+                  <updated>2024-06-25T11:12:11+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/so-sánh-độ-mượt-mà-giữa-ios-và-android---hệ-điều-hành-nào-tốt-hơn.html</id><title>So sánh độ mượt mà giữa iOS và Android - Hệ điều hành nào tốt hơn?</title>
+          <updated>2024-06-25T11:12:11+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/so-sánh-độ-mượt-mà-giữa-ios-và-android---hệ-điều-hành-nào-tốt-hơn.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/177/so-sanh-ios-va-android.png"/>
+          <summary type="html"><p>Luôn có không ít sự so sánh, về độ mượt mà giữa những thiết bị của iOS và Android từ người tiêu dùng, hay đến từ các diễn đàn công nghệ. Và rất nhiều lượt phản hồi mà mình nhận thấy là iPhone luôn mượt hơn</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/-review-phim-mission-impossible-8-nhiệm-vụ-bất-khả-thi---bom-tấn-hành-động-hollywood.html</id><title> Review phim Mission: Impossible 8 (Nhiệm vụ bất khả thi) - Bom tấn hành động Hollywood</title>
           <updated>2024-06-25T09:49:28+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/-review-phim-mission-impossible-8-nhiệm-vụ-bất-khả-thi---bom-tấn-hành-động-hollywood.html"/>
