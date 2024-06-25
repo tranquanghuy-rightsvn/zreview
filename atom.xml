@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-25T11:12:11+07:00</updated>
+                  <updated>2024-06-25T11:37:15+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/sỹ-tử-trên-cả-nước-rục-rịch-đón-kỳ-thi-tốt-nghiệp-thpt-quốc-gia-năm-2024---lịch-thi-chính-thức.html</id><title>Sỹ tử trên cả nước rục rịch đón kỳ thi tốt nghiệp THPT quốc gia năm 2024 - Lịch thi chính thức</title>
+          <updated>2024-06-25T11:37:15+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/sỹ-tử-trên-cả-nước-rục-rịch-đón-kỳ-thi-tốt-nghiệp-thpt-quốc-gia-năm-2024---lịch-thi-chính-thức.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/178/thi-tot-nghiep-thpt-2024.png"/>
+          <summary type="html"><p>Theo quy định tại Thông tư số 02/2024/TT-BGDĐT kỳ thi tốt nghiệp THPT quốc gia sẽ không có thay đổi nhiều so với những kỳ thi năm trước. Tuy nhiên quy chế thi cũng có một số chỉnh sửa để thí sinh nắm được rõ ràng hơn về lịch thi</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/so-sánh-độ-mượt-mà-giữa-ios-và-android---hệ-điều-hành-nào-tốt-hơn.html</id><title>So sánh độ mượt mà giữa iOS và Android - Hệ điều hành nào tốt hơn?</title>
           <updated>2024-06-25T11:12:11+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/so-sánh-độ-mượt-mà-giữa-ios-và-android---hệ-điều-hành-nào-tốt-hơn.html"/>
