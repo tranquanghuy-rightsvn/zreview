@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-24T10:26:34+07:00</updated>
+                  <updated>2024-06-25T09:49:28+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/-review-phim-mission-impossible-8-nhiệm-vụ-bất-khả-thi---bom-tấn-hành-động-hollywood.html</id><title> Review phim Mission: Impossible 8 (Nhiệm vụ bất khả thi) - Bom tấn hành động Hollywood</title>
+          <updated>2024-06-25T09:49:28+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/-review-phim-mission-impossible-8-nhiệm-vụ-bất-khả-thi---bom-tấn-hành-động-hollywood.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/176/nhiem-vu-bat-kha-thi-8-nghiep-bao-phan-2-poster.jpg"/>
+          <summary type="html"><p>Nhiệm vụ bất khả thi 8 là phần cuối cùng của thương hiệu phim này, với sự góp mặt của tài tử Hollywood Tom Cruise, Hayley Atwell, Vanessa Kirby, bộ phim dự báo sẽ tạo ra cơn địa chấn khi càn quét các phòng vé vào thời gian sắp tớ</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-nọc-độc---phim-kinh-dị-đề-tài-sinh-vật-kỳ-bí.html</id><title>Review Nọc độc - Phim kinh dị đề tài sinh vật kỳ bí</title>
           <updated>2024-06-24T10:26:34+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-nọc-độc---phim-kinh-dị-đề-tài-sinh-vật-kỳ-bí.html"/>
