@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-26T16:45:39+07:00</updated>
+                  <updated>2024-06-27T10:19:05+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/trải-nghiệm-thuê-xe-tự-lái-tại-nhà-xe-trần-quang--công-ty-tnhh-tmdv-minitour.html</id><title>Trải Nghiệm Thuê Xe Tự Lái tại Nhà Xe Trần Quang – Công ty TNHH TMDV Minitour</title>
+          <updated>2024-06-27T10:19:05+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/trải-nghiệm-thuê-xe-tự-lái-tại-nhà-xe-trần-quang--công-ty-tnhh-tmdv-minitour.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/180/review-nha-xe-tran-quang.png"/>
+          <summary type="html"><p>Dịch vụ thuê xe tự lái của Nhà xe Trần Quang được nhiều người đánh giá cao về chất lượng xe cũng như sự chuyên nghiệp trong cách phục vụ, điều này khiến chúng mình cảm thấy rất yên tâm</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/hằng-du-mục-là-ai-chiến-thần-livestream-và-nghi-vấn-bị-chồng-bạo-hành.html</id><title>Hằng Du mục là ai? Chiến thần livestream và nghi vấn bị chồng bạo hành</title>
           <updated>2024-06-26T16:45:39+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/hằng-du-mục-là-ai-chiến-thần-livestream-và-nghi-vấn-bị-chồng-bạo-hành.html"/>
