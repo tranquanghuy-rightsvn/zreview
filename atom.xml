@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-27T10:19:05+07:00</updated>
+                  <updated>2024-06-28T11:06:28+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-nhà-hàng-citron-restaurant-đà-nẵng---điểm-hẹn-lí-tưởng-hè-này.html</id><title>Review Nhà hàng Citron Restaurant Đà Nẵng - điểm hẹn lí tưởng hè này</title>
+          <updated>2024-06-28T11:06:28+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-nhà-hàng-citron-restaurant-đà-nẵng---điểm-hẹn-lí-tưởng-hè-này.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/181/review-citron-restaurant-son-tra-da-nang-nha-hang.jpg"/>
+          <summary type="html"><p>Nhà hàng Citron Restaurant nằm ở bán đảo Sơn Trà - Đà Nẵng, nằm trong khu nghỉ dưỡng InterContinental Danang Sun Peninsula Resort nổi tiếng với vẻ đẹp mê hồn, một trong những tọa độ chanh sả đẳng cấp bậc nhất ở thành phố Đà Nẵng</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/trải-nghiệm-thuê-xe-tự-lái-tại-nhà-xe-trần-quang--công-ty-tnhh-tmdv-minitour.html</id><title>Trải Nghiệm Thuê Xe Tự Lái tại Nhà Xe Trần Quang – Công ty TNHH TMDV Minitour</title>
           <updated>2024-06-27T10:19:05+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/trải-nghiệm-thuê-xe-tự-lái-tại-nhà-xe-trần-quang--công-ty-tnhh-tmdv-minitour.html"/>
