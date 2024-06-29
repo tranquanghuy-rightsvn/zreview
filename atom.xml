@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-28T11:06:28+07:00</updated>
+                  <updated>2024-06-29T13:15:45+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-marché-dalat---nhà-bên-chợ-chiếc-homestay-đáng-yêu-nhất-giữa-lòng-thành-phố-đà-lạt.html</id><title>Review Marché Dalat - Nhà bên chợ: chiếc homestay đáng yêu nhất giữa lòng thành phố Đà Lạt</title>
+          <updated>2024-06-29T13:15:45+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-marché-dalat---nhà-bên-chợ-chiếc-homestay-đáng-yêu-nhất-giữa-lòng-thành-phố-đà-lạt.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/182/review-nha-ben-cho-da-lat-marche.jpeg"/>
+          <summary type="html"><p>Trong chuyến đi lần này, mình lựa chọn lưu trú tại Marché Dalat - Nhà bên chợ, nơi mà mình được bạn bè giới thiệu là một trong những homestay ấm cúng và thân thiện nhất thành phố này</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-nhà-hàng-citron-restaurant-đà-nẵng---điểm-hẹn-lí-tưởng-hè-này.html</id><title>Review Nhà hàng Citron Restaurant Đà Nẵng - điểm hẹn lí tưởng hè này</title>
           <updated>2024-06-28T11:06:28+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-nhà-hàng-citron-restaurant-đà-nẵng---điểm-hẹn-lí-tưởng-hè-này.html"/>
