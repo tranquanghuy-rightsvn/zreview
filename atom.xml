@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-29T13:15:45+07:00</updated>
+                  <updated>2024-06-29T21:42:30+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-chờ-người-nơi-pháo-hoa-rực-rỡ---bộ-phim-về-tình-yêu-đồng-giới-xứ-đài-loan.html</id><title>Review Chờ người nơi pháo hoa rực rỡ - Bộ phim về tình yêu đồng giới xứ Đài Loan</title>
+          <updated>2024-06-29T21:42:30+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-chờ-người-nơi-pháo-hoa-rực-rỡ---bộ-phim-về-tình-yêu-đồng-giới-xứ-đài-loan.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/183/review-cho-nguoi-noi-phao-hoa-ruc-ro.jpg"/>
+          <summary type="html"><p>Khai thác từ đề tài tình yêu trong phim, Chờ người nơi pháo hoa rực rỡ không chỉ là một tình yêu đồng giới đơn thuần. Nó còn là bản tình ca đẹp về khát vọng tình yêu vượt qua mọi định kiến, soi mói của đời người</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-marché-dalat---nhà-bên-chợ-chiếc-homestay-đáng-yêu-nhất-giữa-lòng-thành-phố-đà-lạt.html</id><title>Review Marché Dalat - Nhà bên chợ: chiếc homestay đáng yêu nhất giữa lòng thành phố Đà Lạt</title>
           <updated>2024-06-29T13:15:45+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-marché-dalat---nhà-bên-chợ-chiếc-homestay-đáng-yêu-nhất-giữa-lòng-thành-phố-đà-lạt.html"/>
