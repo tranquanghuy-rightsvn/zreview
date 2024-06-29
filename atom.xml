@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-06-29T21:42:30+07:00</updated>
+                  <updated>2024-06-29T22:38:38+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/vietlott-lừa-đảo-hay-không---phân-tích-thông-qua-các-con-số-số-liệu-thống-kê.html</id><title>Vietlott lừa đảo hay không? - Phân tích thông qua các con số, số liệu thống kê</title>
+          <updated>2024-06-29T22:38:38+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/vietlott-lừa-đảo-hay-không---phân-tích-thông-qua-các-con-số-số-liệu-thống-kê.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/184/vietlott-lua-dao-hay-khong-phan-tich-so-lieu-thong-ke.jpg"/>
+          <summary type="html"><p>Trong suốt 8 năm hoạt động tại Việt Nam, đã có rất nhiều lần người dân nghi vấn Vietlott gian lận trong cách thức tổ chức. Vietlott cũng từng lên tiếng về các scandal này và quả quyết rằng các bóng dùng để quay số của họ hoàn toàn bình thường</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-chờ-người-nơi-pháo-hoa-rực-rỡ---bộ-phim-về-tình-yêu-đồng-giới-xứ-đài-loan.html</id><title>Review Chờ người nơi pháo hoa rực rỡ - Bộ phim về tình yêu đồng giới xứ Đài Loan</title>
           <updated>2024-06-29T21:42:30+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-chờ-người-nơi-pháo-hoa-rực-rỡ---bộ-phim-về-tình-yêu-đồng-giới-xứ-đài-loan.html"/>
