@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-02T14:29:01+07:00</updated>
+                  <updated>2024-07-02T16:28:10+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-các-nhân-vật-và-dàn-diễn-viên-trong-cửu-long-thành-trại---ai-ấn-tượng-nhất.html</id><title>Review các nhân vật và dàn diễn viên trong Cửu Long Thành Trại - Ai ấn tượng nhất?</title>
+          <updated>2024-07-02T16:28:10+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-các-nhân-vật-và-dàn-diễn-viên-trong-cửu-long-thành-trại---ai-ấn-tượng-nhất.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/189/co-thien-lac-phim-cuu-long-thanh-trai.jpg"/>
+          <summary type="html"><p>Cửu Long Thành Trại là bộ phim đang được bàn tán rầm rộ trên mạng xã hội thời gian gần đây với kỳ vọng sẽ vực dậy dòng phim xã hội đen Hongkong đã từng làm mưa làm gió một thời. Không chỉ có những cảnh đánh đấm cực kỳ đẹp mắt</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/top-địa-chỉ-cắt-tỉa-lông-làm-đẹp-thú-cưng-uy-tín-tại-tphcm.html</id><title>Top Địa Chỉ cắt tỉa lông làm đẹp Thú Cưng Uy Tín Tại TPHCM</title>
           <updated>2024-07-02T14:29:01+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/top-địa-chỉ-cắt-tỉa-lông-làm-đẹp-thú-cưng-uy-tín-tại-tphcm.html"/>
