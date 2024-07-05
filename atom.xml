@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-04T21:25:35+07:00</updated>
+                  <updated>2024-07-05T20:29:16+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-soundpeats---tai-nghe-hàng-trung-quốc-xịn-xò-dù-giá-chỉ-bằng-15-airpods.html</id><title>Review SoundPEATS - Tai nghe hàng Trung Quốc xịn xò dù giá chỉ bằng 1/5 AirPods</title>
+          <updated>2024-07-05T20:29:16+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-soundpeats---tai-nghe-hàng-trung-quốc-xịn-xò-dù-giá-chỉ-bằng-15-airpods.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/195/review-soundpeats-tai-nghe-trung-quoc.png"/>
+          <summary type="html"><p>Nói qua về SoundPEATS thì đây là một hãng tai nghe xuất thân từ Trung Quốc. Với những thiết kế, được giới mộ điệu tai nghe đánh giá là cao cấp và đẹp mắt. Chất âm cực kì ngon trong tầm giá chỉ dưới 2 triệu,</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/dịch-vụ-lắp-đặtsửa-chữa-giàn-phơi-thông-minh-lưới-ban-công-tp-hcm-bình-dương.html</id><title>Dịch Vụ Lắp Đặt,Sửa Chữa Giàn Phơi Thông Minh Lưới Ban Công TP HCM, Bình Dương</title>
           <updated>2024-07-04T21:25:35+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/dịch-vụ-lắp-đặtsửa-chữa-giàn-phơi-thông-minh-lưới-ban-công-tp-hcm-bình-dương.html"/>
