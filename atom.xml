@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-05T20:29:16+07:00</updated>
+                  <updated>2024-07-07T11:08:06+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/du-học-đài-loan---trải-nghiệm-cùng-trung-tâm-tư-vấn-du-học-uoe.html</id><title>Du học Đài Loan - Trải nghiệm cùng trung tâm tư vấn du học UOE</title>
+          <updated>2024-07-07T11:08:06+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/du-học-đài-loan---trải-nghiệm-cùng-trung-tâm-tư-vấn-du-học-uoe.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/196/du-hoc-dai-loan-uoe.png"/>
+          <summary type="html"><p>Đã hơn hai năm kể từ khi mình quyết định đi du học, và suốt thời gian qua, mọi thứ đã dần ổn định hơn. Hôm nay, khi nghĩ về hành trình du học của mình, hình ảnh những ngày đầu tiên khi mình quyết định rời xa quê hương Việt Nam để đến Đài Loan</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-soundpeats---tai-nghe-hàng-trung-quốc-xịn-xò-dù-giá-chỉ-bằng-15-airpods.html</id><title>Review SoundPEATS - Tai nghe hàng Trung Quốc xịn xò dù giá chỉ bằng 1/5 AirPods</title>
           <updated>2024-07-05T20:29:16+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-soundpeats---tai-nghe-hàng-trung-quốc-xịn-xò-dù-giá-chỉ-bằng-15-airpods.html"/>
