@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-11T15:22:13+07:00</updated>
+                  <updated>2024-07-11T20:38:28+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-nhà-xe-sơn-hiền---dịch-vụ-thuê-xe-ô-tô-uy-tín-giá-tốt-sơn-tây.html</id><title>Review nhà xe Sơn Hiền - Dịch vụ thuê xe ô tô uy tín giá tốt Sơn Tây</title>
+          <updated>2024-07-11T20:38:28+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-nhà-xe-sơn-hiền---dịch-vụ-thuê-xe-ô-tô-uy-tín-giá-tốt-sơn-tây.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/201/review-nha-xe-son-hien-dich-vu-thue-xe-o-to-uy-tin-son-tay.jpg"/>
+          <summary type="html"><p>Đầu tiên về chất lượng xe, xe mình thuê là xe Toyota Vios, dòng xe số sàn. Mặc dù sản xuất từ năm 2022 nhưng xe còn mới nguyên do được bên nhà xe vệ sinh và bảo dưỡng thường xuyên. Ghế êm ái, ngồi rất dễ chịu</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/có-bao-nhiêu-cầu-thủ-thi-đấu-chính-thức-trong-một-đội-bóng.html</id><title>Có bao nhiêu cầu thủ thi đấu chính thức trong một đội bóng?</title>
           <updated>2024-07-11T15:22:13+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/có-bao-nhiêu-cầu-thủ-thi-đấu-chính-thức-trong-một-đội-bóng.html"/>
