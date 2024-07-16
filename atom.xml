@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-15T21:40:34+07:00</updated>
+                  <updated>2024-07-16T17:25:11+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/dịch-vụ-gửi-hàng-quốc-tế-uy-tín---review-nhật-minh-anh-logistics.html</id><title>Dịch vụ gửi hàng quốc tế uy tín - Review Nhật Minh Anh Logistics</title>
+          <updated>2024-07-16T17:25:11+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/dịch-vụ-gửi-hàng-quốc-tế-uy-tín---review-nhật-minh-anh-logistics.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/210/review-nhat-minh-anh-logictics-gui-hang-di-nuoc-ngoai.jpg"/>
+          <summary type="html"><p>Gần đây, mình đã có cơ hội trải nghiệm dịch vụ gửi hàng từ Cần Thơ đi Hàn Quốc của Nhật Minh Anh Logistic. Là người thường xuyên gửi hàng quốc tế cho người thân, mình đã thử qua nhiều dịch vụ khác nhau và gặp vô số </p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-tour-du-lịch-japan-unique-autumn---ngắm-mùa-thu-nhật-bản-cùng-easy-trip.html</id><title>Review tour du lịch Japan Unique Autumn - Ngắm mùa thu Nhật Bản cùng Easy Trip</title>
           <updated>2024-07-15T21:40:34+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-tour-du-lịch-japan-unique-autumn---ngắm-mùa-thu-nhật-bản-cùng-easy-trip.html"/>
