@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-27T22:49:58+07:00</updated>
+                  <updated>2024-07-27T22:56:46+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-dịch-vụ-hút-bể-phốt-của-công-ty-đức-yên-uy-tín-và-chuyên-nghiệp.html</id><title>Review Dịch Vụ Hút Bể Phốt Của Công Ty Đức Yên: Uy Tín Và Chuyên Nghiệp</title>
+          <updated>2024-07-27T22:56:46+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-hút-bể-phốt-của-công-ty-đức-yên-uy-tín-và-chuyên-nghiệp.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/219/review-dich-vu-hut-be-phot-ha-noi.jpg"/>
+          <summary type="html"><p>Gần đây, mình đã gặp phải vấn đề về hệ thống bể phốt của gia đình và quyết định sử dụng dịch vụ hút bể phốt của công ty Đức Yên. Sau khi trải nghiệm dịch vụ của họ, mình cảm thấy rất hài lòng</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-dịch-vụ-thông-tắc-cống-của-công-ty-đức-yên-hiệu-quả-uy-tín-giá-cả-hợp-lý.html</id><title>Review Dịch Vụ Thông Tắc Cống Của Công Ty Đức Yên: Hiệu Quả Uy tín Giá Cả Hợp Lý</title>
           <updated>2024-07-27T22:49:58+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-thông-tắc-cống-của-công-ty-đức-yên-hiệu-quả-uy-tín-giá-cả-hợp-lý.html"/>
