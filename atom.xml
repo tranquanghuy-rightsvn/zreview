@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-29T22:45:09+07:00</updated>
+                  <updated>2024-07-29T22:51:00+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-dịch-vụ-sửa-chữa-airpods-hà-nội-uy-tín---trùm-airpod.html</id><title>Review dịch vụ sửa chữa Airpods Hà Nội uy tín - Trùm Airpod</title>
+          <updated>2024-07-29T22:51:00+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-sửa-chữa-airpods-hà-nội-uy-tín---trùm-airpod.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/222/review-dich-vu-sua-chua-airpod-uy-tin-ha-noi.png"/>
+          <summary type="html"><p>Gần đây, mình gặp phải một tình huống không mong muốn khi chiếc AirPods thân yêu của mình vô tình bị cho vào máy giặt. Dù mình đã rất cẩn thận với thiết bị của mình, nhưng sự cố này đã xảy ra và khiến mình rất lo lắng</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-trùm-airpod-cửa-hàng-mua-bán-sửa-chữa-airpods-chính-hãng-uy-tín-hàng-đầu--hà-nội.html</id><title>Review Trùm Airpod: Cửa hàng mua bán sửa chữa AirPods chính hãng Uy Tín Hàng Đầu  Hà Nội</title>
           <updated>2024-07-29T22:45:09+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-trùm-airpod-cửa-hàng-mua-bán-sửa-chữa-airpods-chính-hãng-uy-tín-hàng-đầu--hà-nội.html"/>
