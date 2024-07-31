@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-07-31T20:41:39+07:00</updated>
+                  <updated>2024-07-31T21:10:17+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/huy-lock-là-ai-chuyên-viên-marketing-online-chuyên-nghiệp-và-uy-tín.html</id><title>Huy Lock là ai? Chuyên viên Marketing online chuyên nghiệp và uy tín</title>
+          <updated>2024-07-31T21:10:17+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/huy-lock-là-ai-chuyên-viên-marketing-online-chuyên-nghiệp-và-uy-tín.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/228/huy-lock-la-ai-chuyen-vien-marketing-chuyen-nghiep-hieu-qua.jpg"/>
+          <summary type="html"><p>Huy Lock là nick name, còn tên thật của anh là Huy Lộc, sinh năm 1995, anh là chủ nhân của blog về marketing rất nổi tiếng trong giới là huylock.com, nơi anh ấy chia sẻ về các dịch vụ liên quan đến Marketing Online</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-đại-lý-ắc-quy-varta-tại-tp-hcm---đại-lý-bán-ắc-quy-toàn-quốc.html</id><title>Review đại lý ắc quy Varta tại TP HCM - đại lý bán ắc quy toàn quốc</title>
           <updated>2024-07-31T20:41:39+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-đại-lý-ắc-quy-varta-tại-tp-hcm---đại-lý-bán-ắc-quy-toàn-quốc.html"/>
