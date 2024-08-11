@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
                 <id>https://zreview.vn/</id>
-                  <updated>2024-08-11T15:27:05+07:00</updated>
+                  <updated>2024-08-11T15:32:07+07:00</updated>
                 <link href="https://zreview.vn/"/>
                 <link rel="self" href="https://zreview.vn/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://zreview.vn/images/logo.svg</logo><entry>
+          <id>https://zreview.vn/review-phim-xin-chào-jadoo-đại-dương-diệu-kỳ---phim-hay-dành-cho-con-trẻ-hè-này.html</id><title>Review phim Xin Chào Jadoo: Đại Dương Diệu Kỳ - phim hay dành cho con trẻ hè này</title>
+          <updated>2024-08-11T15:32:07+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://zreview.vn/review-phim-xin-chào-jadoo-đại-dương-diệu-kỳ---phim-hay-dành-cho-con-trẻ-hè-này.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/270/Xin_Ch%C3%A0o_Jadoo__%C4%90%E1%BA%A1i_D%C6%B0%C6%A1ng_Di%E1%BB%87u_K%E1%BB%B3.jpeg"/>
+          <summary type="html"><p>Bộ phim Xin Chào Jadoo: Đại Dương Diệu Kỳ không chỉ gây ấn tượng bởi hình ảnh sống động và âm thanh chân thực, mà còn bởi câu chuyện cảm động và những thông điệp nhân văn sâu sắc</p></summary>
+        </entry><entry>
           <id>https://zreview.vn/review-bé-ma-của-anh-my-boo---bộ-phim-kinh-dị-hài-hước-đầy-cảm-xúc-từ-điện-ảnh-thái-lan.html</id><title>Review Bé Ma Của Anh (My Boo) - Bộ Phim Kinh Dị Hài Hước Đầy Cảm Xúc Từ Điện Ảnh Thái Lan</title>
           <updated>2024-08-11T15:27:05+07:00</updated>
           <link rel="alternate" type="text/html" href="https://zreview.vn/review-bé-ma-của-anh-my-boo---bộ-phim-kinh-dị-hài-hước-đầy-cảm-xúc-từ-điện-ảnh-thái-lan.html"/>
