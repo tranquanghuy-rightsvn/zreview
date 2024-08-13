@@ -1,4 +1,14 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zreview.vn/sitemap.xml
+Sitemap: https://zreview.vn/sitemap/sitemap-index.xml
+Sitemap: https://zreview.vn/sitemap/categories/nhan-vat.xml
+Sitemap: https://zreview.vn/sitemap/categories/am-thuc.xml
+Sitemap: https://zreview.vn/sitemap/categories/du-lich.xml
+Sitemap: https://zreview.vn/sitemap/categories/khach-san.xml
+Sitemap: https://zreview.vn/sitemap/categories/nha-hang.xml
+Sitemap: https://zreview.vn/sitemap/categories/phim.xml
+Sitemap: https://zreview.vn/sitemap/categories/sach.xml
+Sitemap: https://zreview.vn/sitemap/categories/khac.xml
+Sitemap: https://zreview.vn/sitemap/categories/cong-nghe.xml
+Sitemap: https://zreview.vn/sitemap/page-sitemap.xml
