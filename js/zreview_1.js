@@ -12,18 +12,3 @@ document.querySelector('.more').addEventListener('click', function() {
     a.style.display = 'block';
   }
 });
-
-
-function loadImageBasedOnScreenWidth() {
-  var screenWidth = window.innerWidth;
-  var imgElement = document.getElementById('banner-quangcao');
-
-  if (screenWidth > 780) {
-    imgElement.src = './images/zontape_lg.png';
-  } else {
-    imgElement.src = './images/zontape.png';
-  }
-}
-
-window.onload = loadImageBasedOnScreenWidth;
-window.onresize = loadImageBasedOnScreenWidth;
