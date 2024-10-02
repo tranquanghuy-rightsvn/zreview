@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2024-09-21T22:35:55+07:00</updated>
+                <updated>2024-10-02T22:00:49+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,12 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/review-dịch-vụ-may-in-áo-thun-đồng-phục-đăk-lăk-giá-rẻ-và-đẹp-nhất.html</id><title>Review dịch vụ may in áo thun đồng phục Đăk Lăk giá rẻ và đẹp nhất</title>
+        <updated>2024-10-02T22:00:49+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/review-dịch-vụ-may-in-áo-thun-đồng-phục-đăk-lăk-giá-rẻ-và-đẹp-nhất.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/292/ao_thun_dong_phuc.png"/>
+        <summary type="html"><p>Sau khi trải nghiệm dịch vụ may in áo thun đồng phục tại cơ sở đồng phục Gia Minh, tôi hoàn toàn hài lòng với dịch vụ và cảm thấy may mắn. Hôm nay tôi sẽ review về cơ sở này...</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/tìm-hiểu-6-ưu---nhược-điểm-của-nhà-thông-minh.html</id><title>Tìm hiểu 6+ Ưu - Nhược điểm của nhà thông minh</title>
         <updated>2024-09-21T22:35:55+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/tìm-hiểu-6-ưu---nhược-điểm-của-nhà-thông-minh.html"/>
