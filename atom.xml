@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2024-10-27T17:23:56+07:00</updated>
+                <updated>2024-10-30T18:42:14+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,12 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/review-dia-chi-thu-mua-dien-thoai-cu-uy-tin-tp-hcm-tien-tran-mobile.html</id><title>Review địa chỉ thu mua điện thoại cũ uy tín TP HCM - Tiến Trần Mobile</title>
+        <updated>2024-10-30T18:42:14+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/review-dia-chi-thu-mua-dien-thoai-cu-uy-tin-tp-hcm-tien-tran-mobile.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/300/mua-dien-thoai-cu.jpg"/>
+        <summary type="html"><p> Trong bối cảnh công nghệ phát triển nhanh chóng, việc mua sắm điện thoại cũ ngày càng trở nên phổ biến và được ưa chuộng. Bài viết này sẽ khám phá những lợi ích khi thu mua điện thoại cũ</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/nen-chon-hoa-gi-de-tang-cho-ngay-le-tot-nghiep.html</id><title>Nên chọn hoa gì để tặng cho ngày lễ tốt nghiệp</title>
         <updated>2024-10-27T17:23:56+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/nen-chon-hoa-gi-de-tang-cho-ngay-le-tot-nghiep.html"/>
