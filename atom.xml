@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2024-11-13T21:52:07+07:00</updated>
+                <updated>2024-11-29T19:18:10+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,18 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/sinh-vien-nen-mua-macbook-pro-m3-hay-macbook-air-m3.html</id><title>Sinh viên nên mua MacBook Pro M3 hay MacBook Air M3?</title>
+        <updated>2024-11-29T19:18:10+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/sinh-vien-nen-mua-macbook-pro-m3-hay-macbook-air-m3.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/308/image.png"/>
+        <summary type="html"><p>Với sự ra mắt của MacBook Air M3 và MacBook Pro M3, các bạn sinh viên có thêm nhiều lựa chọn laptop phù hợp với nhu cầu học tập và làm việc. Hai mẫu máy này có những ưu điểm và nhược điểm riêng</p></summary>
+      </entry><entry>
+        <id>https://zreview.vn/mua-iphone-16-cu-hay-iphone-15-moi.html</id><title>Mua iPhone 16 Cũ Hay iPhone 15 Mới? Đâu Mới Thật Sự Là Chân Ái</title>
+        <updated>2024-11-28T22:28:00+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/mua-iphone-16-cu-hay-iphone-15-moi.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/307/2.jpg"/>
+        <summary type="html"><p>Khi nói đến việc mua smartphone, đặc biệt là iPhone, người dùng thường đứng trước nhiều lựa chọn. Trong bối cảnh hiện tại, câu hỏi đặt ra là nên mua iPhone 16 cũ hay iPhone 15 mới? Cả hai mẫu điện thoại này đều có những điểm mạnh riêng</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/cach-de-video-cua-ban-tro-nen-noi-bat-tren-tiktok.html</id><title>Cải Thiện Sự Tương Tác Trên TikTok: Cách Để Video Của Bạn Trở Nên Nổi Bật</title>
         <updated>2024-11-13T21:52:07+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/cach-de-video-cua-ban-tro-nen-noi-bat-tren-tiktok.html"/>
