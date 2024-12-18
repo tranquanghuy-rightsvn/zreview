@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2024-12-17T23:42:12+07:00</updated>
+                <updated>2024-12-18T20:45:21+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,18 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/top-5-cu-sac-chinh-hang-tot-nhat-hien-nay.html</id><title>Top 5 Củ Sạc Chính Hãng Tốt Nhất Hiện Nay</title>
+        <updated>2024-12-18T20:45:21+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/top-5-cu-sac-chinh-hang-tot-nhat-hien-nay.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/317/image__7_.png"/>
+        <summary type="html"><p>Top 5 củ sạc tốt nhất hiện nay 2025 với hiệu suất và chất lượng cao nhất cho người dùng.</p></summary>
+      </entry><entry>
+        <id>https://zreview.vn/giai-dap-chi-tiet-khai-niem-ve-dieu-hoa-khong-khi-hien-nay.html</id><title>Giải đáp chi tiết các khái niệm cơ bản về điều hòa không khí phổ biến hiện nay</title>
+        <updated>2024-12-18T20:32:17+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/giai-dap-chi-tiet-khai-niem-ve-dieu-hoa-khong-khi-hien-nay.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/316/image__5_.png"/>
+        <summary type="html"><p>Trong bài viết này, chúng tôi sẽ giúp bạn gỡ rối bằng các giải đáp chi tiết về khái niệm cơ bản của điều hòa không khí phổ biến hiện nay, để bạn dễ dàng lựa chọn dòng điều hòa phù hợp, tối ưu chi phí nhất!</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/review-dich0vu-in-tem-nhan-uy-tin-chat-luong-gia-re-ha-noi.html</id><title>Review dịch vụ in tem nhãn uy tín chất lượng giá rẻ Hà Nội</title>
         <updated>2024-12-17T23:42:12+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/review-dich0vu-in-tem-nhan-uy-tin-chat-luong-gia-re-ha-noi.html"/>
