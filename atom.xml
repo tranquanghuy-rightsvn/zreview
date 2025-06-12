@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2025-05-25T20:35:00+07:00</updated>
+                <updated>2025-06-12T20:17:38+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,18 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/khi-nao-nen-dau-tu-may-hut-bui-cong-nghiep-cho-gia-dinh.html</id><title>Khi nào nên đầu tư máy hút bụi công nghiệp cho gia đình?</title>
+        <updated>2025-06-12T20:17:38+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/khi-nao-nen-dau-tu-may-hut-bui-cong-nghiep-cho-gia-dinh.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/333/image__13_.png"/>
+        <summary type="html"><p>Máy hút bụi công nghiệp là dòng thiết bị vệ sinh công suất lớn được sử dụng chủ yếu trong các doanh nghiệp, nhà xưởng, cơ sở sản xuất, trung tâm thương mại</p></summary>
+      </entry><entry>
+        <id>https://zreview.vn/hoi-nghi-tien-ma-hoa-new-york-day-manh-cai-cach-thue-giai-phap-cong-nghe-chuoi-khoi-xbit-giai-quyet-thach-thuc-tuan-thu.html</id><title>Hội nghị tiền mã hóa New York đẩy mạnh cải cách thuế: giải pháp công nghệ chuỗi khối xbit giải quyết thách thức tuân thủ</title>
+        <updated>2025-06-01T14:58:36+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/hoi-nghi-tien-ma-hoa-new-york-day-manh-cai-cach-thue-giai-phap-cong-nghe-chuoi-khoi-xbit-giai-quyet-thach-thuc-tuan-thu.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/332/image__12_.png"/>
+        <summary type="html"><p>New York, ngày 20/5/2025 - Tại Hội nghị Tiền mã hóa New York lần đầu tiên được tổ chức, Thị trưởng Eric Adams đã chính thức công bố Sáng kiến Minh bạch Thuế tiền mã hóa</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/tieu-chuan-thiet-ket-bep-nha-hang-khach-san-chuan-5-sao.html</id><title>Tiêu chuẩn thiết kế bếp nhà hàng khách sạn chuẩn 5 sao</title>
         <updated>2025-05-25T20:35:00+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/tieu-chuan-thiet-ket-bep-nha-hang-khach-san-chuan-5-sao.html"/>
