@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2025-06-12T20:17:38+07:00</updated>
+                <updated>2025-06-27T12:00:24+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,24 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/sai-lam-can-tranh-khi-thi-cong-tran-thach-cao.html</id><title>Sai lầm cần tránh khi thi công trần thạch cao</title>
+        <updated>2025-06-27T12:00:24+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/sai-lam-can-tranh-khi-thi-cong-tran-thach-cao.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/337/image__16_.png"/>
+        <summary type="html"><p>Trần thạch cao đang là lựa chọn phổ biến trong thiết kế nội thất hiện đại nhờ tính thẩm mỹ cao, khả năng cách âm, cách nhiệt tốt và thi công linh hoạt.</p></summary>
+      </entry><entry>
+        <id>https://zreview.vn/giai-ma-dung-cu-pha-che-cocktail-whisky-can-gi-de-tro-thanh-bartender-tai-gia.html</id><title>Giải mã dụng cụ pha chế Cocktail Whisky: cần gì để trở thành Bartender tại gia?</title>
+        <updated>2025-06-27T11:53:18+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/giai-ma-dung-cu-pha-che-cocktail-whisky-can-gi-de-tro-thanh-bartender-tai-gia.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/336/image__15_.png"/>
+        <summary type="html"><p>Bạn có muốn tự tay pha chế những ly cocktail whisky chất lượng như bartender chuyên nghiệp ngay tại nhà nhưng lại không biết bắt đầu từ đâu? Liệu có cần quá nhiều dụng cụ phức tạp và đắt tiền</p></summary>
+      </entry><entry>
+        <id>https://zreview.vn/top-phan-mem-chuyen-giong-noi-thanh-van-ban-giup-tao-van-ban-de-dang.html</id><title>Top Phần Mềm Chuyển Giọng Nói Thành Văn Bản Giúp Tạo Văn Bản Dễ Dàng</title>
+        <updated>2025-06-24T20:02:59+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/top-phan-mem-chuyen-giong-noi-thanh-van-ban-giup-tao-van-ban-de-dang.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/335/383cb89f-c791-43d5-b608-4c7784b6b67a.png"/>
+        <summary type="html"><p>Trong thời đại công nghệ 4.0, các phần mềm chuyển giọng nói thành văn bản đã trở thành công cụ phổ biến, hỗ trợ từ ghi chú công việc cho đến sử dụng kiểu API tích hợp vào các ứng dụng AI.</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/khi-nao-nen-dau-tu-may-hut-bui-cong-nghiep-cho-gia-dinh.html</id><title>Khi nào nên đầu tư máy hút bụi công nghiệp cho gia đình?</title>
         <updated>2025-06-12T20:17:38+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/khi-nao-nen-dau-tu-may-hut-bui-cong-nghiep-cho-gia-dinh.html"/>
