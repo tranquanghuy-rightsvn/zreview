@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2025-06-27T12:00:24+07:00</updated>
+                <updated>2025-07-13T16:38:45+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,6 +9,18 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/laptop-van-phong-pin-dung-10-tieng-nhe-duoi-1,5-kg.html</id><title>Laptop văn phòng pin dùng 10 tiếng, nhẹ dưới 1.5kg</title>
+        <updated>2025-07-13T16:38:45+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/laptop-van-phong-pin-dung-10-tieng-nhe-duoi-1,5-kg.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/339/image__18_.png"/>
+        <summary type="html"><p>Thế giới công việc hiện đại yêu cầu sự linh hoạt và di động cao hơn bao giờ hết. Dân văn phòng ngày nay không chỉ làm việc tại bàn, mà còn phải di chuyển giữa các phòng họp, không gian làm việc chung, quán cà phê, hay thậm chí là khi đi công tác</p></summary>
+      </entry><entry>
+        <id>https://zreview.vn/mua-ban-bitcoin-va-cac-loai-tien-dien-tu-tai-viet-nam-2025.html</id><title>Mua Bán Bitcoin Và Các Loại Tiền Điện Tử Ở Đâu Tại Việt Nam 2025?</title>
+        <updated>2025-06-29T09:41:53+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/mua-ban-bitcoin-va-cac-loai-tien-dien-tu-tai-viet-nam-2025.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/338/image__17_.png"/>
+        <summary type="html"><p>Với dân số trẻ, đam mê công nghệ và sự phổ biến của ví điện tử cùng ngân hàng số, người Việt đang ngày càng chủ động hơn trong việc tiếp cận và giao dịch tài sản số. Nên mua và bán Bitcoin ở đâu an toàn và hiệu quả tại Việt Nam</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/sai-lam-can-tranh-khi-thi-cong-tran-thach-cao.html</id><title>Sai lầm cần tránh khi thi công trần thạch cao</title>
         <updated>2025-06-27T12:00:24+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/sai-lam-can-tranh-khi-thi-cong-tran-thach-cao.html"/>
