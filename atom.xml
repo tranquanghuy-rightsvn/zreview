@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Zreview - Review cả thế giới</title>
               <id>https://zreview.vn/</id>
-                <updated>2025-07-15T21:50:52+07:00</updated>
+                <updated>2025-07-17T19:29:01+07:00</updated>
               <link href="https://zreview.vn/"/>
               <link rel="self" href="https://zreview.vn/atom.xml"/>
               <author>
@@ -9,8 +9,14 @@
               </author>
               <icon>https://zreview.vn/images/favicon/favicon_48x48.ico</icon>
               <logo>https://zreview.vn/images/logo.svg</logo><entry>
+        <id>https://zreview.vn/nen-kieng-bia-ruou-trong-bao-lau-truoc-khi-cay-ghep-implant.html</id><title>Nên kiêng rượu bia trong bao lâu trước khi cấy ghép Implant?</title>
+        <updated>2025-07-17T19:29:01+07:00</updated>
+        <link rel="alternate" type="text/html" href="https://zreview.vn/nen-kieng-bia-ruou-trong-bao-lau-truoc-khi-cay-ghep-implant.html"/>
+        <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/341/image__20_.png"/>
+        <summary type="html"><p>Rượu bia là một trong những yếu tố ảnh hưởng trực tiếp đến quá trình lành thương và tích hợp trụ Implant sau cấy ghép. Tuy nhiên, ít người biết rằng, việc kiêng rượu bia không chỉ cần thực hiện sau phẫu thuật mà cần bắt đầu từ trước đó</p></summary>
+      </entry><entry>
         <id>https://zreview.vn/viet-nam-don-lan-song-web-3-toan-cau-thu-hut-cac-ong-lon-nhu-HiBT.html</id><title>Việt Nam đón làn sóng Web 3 toàn cầu, thu hút các "ông lớn" như HiBT</title>
-        <updated>2025-07-15T21:50:52+07:00</updated>
+        <updated>2025-07-16T21:50:52+07:00</updated>
         <link rel="alternate" type="text/html" href="https://zreview.vn/viet-nam-don-lan-song-web-3-toan-cau-thu-hut-cac-ong-lon-nhu-HiBT.html"/>
         <link rel="enclosure" type="image/jpg" href="https://zreview.vn/images/340/image__19_.png"/>
         <summary type="html"><p>Trong những năm gần đây, Việt Nam đã khẳng định vị thế là một trong những thị trường Web3 phát triển năng động nhất khu vực Đông Nam Á</p></summary>
