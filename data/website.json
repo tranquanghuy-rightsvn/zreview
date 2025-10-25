@@ -1,0 +1,68 @@
+{
+  "name": "Zreview - Review cả thế giới",
+  "description": "Review khách quan dưới góc nhìn người tiêu dùng về sản phẩm, con người, sách, đồ điện tử, đồ gia dụng, đồ công nghệ",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Nhân vật",
+      "url": "nhan-vat.html"
+    },
+    {
+      "id": 2,
+      "name": "Sách",
+      "url": "sach.html"
+    },
+    {
+      "id": 3,
+      "name": "Phim",
+      "url": "phim.html"
+    },
+    {
+      "id": 4,
+      "name": "Công nghệ",
+      "url": "cong-nghe.html"
+    },
+    {
+      "id": 5,
+      "name": "Ẩm thực",
+      "url": "am-thuc.html"
+    },
+    {
+      "id": 6,
+      "name": "Đồ gia dụng",
+      "url": "do-gia-dung.html"
+    },
+    {
+      "id": 7,
+      "name": "Nhà hàng",
+      "url": "nha-hang.html"
+    },
+    {
+      "id": 8,
+      "name": "Khách sạn",
+      "url": "khach-san.html"
+    },
+    {
+      "id": 9,
+      "name": "Du lịch",
+      "url": "du-lich.html"
+    },
+    {
+      "id": 10,
+      "name": "Thực phẩm chức năng",
+      "url": "thuc-pham-chuc-nang.html"
+    },
+    {
+      "id": 11,
+      "name": "Khác",
+      "url": "khac.html"
+    }
+  ],
+  "template": "zreview",
+  "google_adsense": "1234",
+  "domain_url": "https://zreview.vn/",
+  "google_analytics_code": " <script async src='https://www.googletagmanager.com/gtag/js?id=G-00HNHTJ14N'></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-00HNHTJ14N');\n</script>",
+  "logo": "html/images/logo.png",
+  "thumbnail": "html/images/thumb.webp",
+  "lang": "vi"
+}
