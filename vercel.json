@@ -1,0 +1,18 @@
+{
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/"
+    },
+    {
+      "source": "/top-homestay-h%E1%BB%93-tr%C3%A0m-b%E1%BA%A3ng-x%E1%BA%BFp-h%E1%BA%A1ng-nh%E1%BB%AFng-homestay-%C4%91%E1%BA%B9p-nh%E1%BA%A5t-view-bi%E1%BB%83n-c%E1%BB%B1c-chill.html",
+      "destination": "/top-homestay-ho-tram-bang-xep-hang-nhung-homestay-dep-nhat-view-bien-cuc-chill.html",
+      "permanent": true
+    },
+    {
+      "source": "/top-8-spa-t%E1%BA%AFm-tr%E1%BA%AFng-uy-t%C3%ADn-h%C3%A0ng-%C4%91%E1%BA%A7u-t%E1%BA%A1i-tphcm.html",
+      "destination": "/top-8-spa-tam-trang-uy-tin-hang-dau-tai-tphcm.html",
+      "permanent": true
+    }
+  ]
+}
